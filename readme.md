@@ -24,4 +24,25 @@ Los gráficos se procesan a través de OpenGL ES 2 en lugar de a través de widg
 
 Desarrollar interfaces en Kivy opcionalmente implica el uso de kvlang, un pequeño lenguaje que admite expresiones similares a python e interoperabilidad de python. El uso de kvlang puede simplificar drásticamente el desarrollo de la interfaz de usuario en comparación con el uso exclusivo de Python. [RIPTUTORIAL](https://riptutorial.com/es/kivy).<br>
 
+## Installing the kivy stable release
 
+[Installation on Windows](https://kivy.org/doc/stable/installation/installation-windows.htmly).<br>
+
+1. First create the environment named kivy_venv in your current directory:
+
+```
+python -m virtualenv kivy_venv
+```
+
+2. Activate the virtual environment. You’ll have to do this step from the current directory every time you start a new terminal. On windows CMD do:
+
+```
+kivy_venv\Scripts\activate
+```
+
+3. If you’re in a bash terminal, instead do:
+
+
+```
+source kivy_venv/Scripts/activate
+```
