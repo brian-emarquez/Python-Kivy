@@ -27,8 +27,17 @@ Desarrollar interfaces en Kivy opcionalmente implica el uso de kvlang, un peque√
 ## Installing the kivy stable release
 
 [Installation on Windows](https://kivy.org/doc/stable/installation/installation-windows.htmly).<br>
+_bash_
 
-1. First create the environment named kivy_venv in your current directory:
+```
+pthon -m venv virt
+```
+
+```
+sourse virt/Scripts/activate
+```
+
+"<hr />"
 
 ```
 python -m virtualenv kivy_venv
