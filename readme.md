@@ -4,7 +4,7 @@
 <p align="center">
   
   <a href="https://github.com/BrianMarquez3/Python-Kivy/tags">
-    <img src="https://img.shields.io/github/tag/BrianMarquez3Python-Kivy.svg?label=version&style=flat" alt="Version">
+    <img src="https://img.shields.io/github/tag/BrianMarquez3/Python-Kivy.svg?label=version&style=flat" alt="Version">
   </a>
   <a href="https://github.com/BrianMarquez3/Python-Kivy/stargazers">
     <img src="https://img.shields.io/github/stars/BrianMarquez3/Python-Kivy.svg?style=flat" alt="Stars">
