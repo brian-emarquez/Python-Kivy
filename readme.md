@@ -37,7 +37,7 @@ pthon -m venv virt
 sourse virt/Scripts/activate
 ```
 
-"<hr />"
+<hr />
 
 ```
 python -m virtualenv kivy_venv
