@@ -74,6 +74,7 @@ python
 ```
 App().run()
 ```
+-Ventana de Ejecucion_
 ![ANACONDA](./images/ventana.png)
 ## Comandos 🧑‍💻
 
