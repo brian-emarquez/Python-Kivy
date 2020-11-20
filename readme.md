@@ -37,15 +37,15 @@ Anaconda es un distribución libre y abierta1​ de los lenguajes Python y R, ut
 
 ## Installing the kivy stable release
 
-[Installation on Windows](https://kivy.org/#download).<br>
+[Installation on Windows](https://kivy.org/doc/stable/installation/installation-windows.html).<br>
 
 _Documentacion CONDA_
 
 [ANACONDA](https://kivy.org/#download)
 
-- crear
+- Crear
 ```
-conda create -n prueba
+conda create -n prueba python=3.8
 ```
 
 - Conda Activate
@@ -55,7 +55,7 @@ conda activate prueba
 
 - Install using conda with conda-forge: conda activate 
 ```
-conda install kivy -c conda-forge.
+conda install kivy -c conda-forge
 ```
 
 ## Comandos 🧑‍💻
