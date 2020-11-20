@@ -30,7 +30,7 @@ _Anaconda Navigator_
 
 Anaconda es un distribución libre y abierta1​ de los lenguajes Python y R, utilizada en ciencia de datos, y aprendizaje automático (machine learning). Esto incluye procesamiento de grandes volúmenes de información, análisis predictivo y cómputos científicos. Está orientado a simplificar el despliegue y administración de los paquetes de software. [WIKIPEDIA](https://es.wikipedia.org/wiki/Anaconda_(distribuci%C3%B3n_de_Python)).<br>
 
-![anaconda](./images/Anaconda-Navigator.png)
+![ANACONDA](./images/Anaconda-Navigator.png)
 
 📦 [Install Anaconda](https://www.anaconda.com/) Intalador de Anaconda.<br>
 📦 [Comandos CONDA](https://www.interactivechaos.com/recursos-educativos/comandos-conda) Comandos Conda.<br>
@@ -52,6 +52,8 @@ conda create -n prueba python=3.8
 ```
 conda activate prueba
 ```
+
+![ANACONDA](./images/conda-install.png)
 
 - Install using conda with conda-forge: conda activate 
 ```
