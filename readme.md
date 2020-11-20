@@ -24,54 +24,18 @@ Los gráficos se procesan a través de OpenGL ES 2 en lugar de a través de widg
 
 Desarrollar interfaces en Kivy opcionalmente implica el uso de kvlang, un pequeño lenguaje que admite expresiones similares a python e interoperabilidad de python. El uso de kvlang puede simplificar drásticamente el desarrollo de la interfaz de usuario en comparación con el uso exclusivo de Python. [RIPTUTORIAL](https://riptutorial.com/es/kivy).<br>
 
+## Anaconda
+
+_Anaconda Navigator_
+
+Anaconda es un distribución libre y abierta1​ de los lenguajes Python y R, utilizada en ciencia de datos, y aprendizaje automático (machine learning). Esto incluye procesamiento de grandes volúmenes de información, análisis predictivo y cómputos científicos. Está orientado a simplificar el despliegue y administración de los paquetes de software. [WIKIPEDIA](https://es.wikipedia.org/wiki/Anaconda_(distribuci%C3%B3n_de_Python)).<br>
+
+![anaconda](./images/Anaconda-Navigator.png)
+
+📦 [Install Anaconda](https://www.anaconda.com/) Intalador de Anaconda.<br>
+
 ## Installing the kivy stable release
 
 [Installation on Windows](https://kivy.org/doc/stable/installation/installation-windows.htmly).<br>
-_bash_
 
-```
-pthon -m venv virt
-```
-
-```
-sourse virt/Scripts/activate
-```
-
-<hr />
-
-_Documentacion_
-
-1. Ensure you have the latest pip, wheel, and virtualenv:
-
-- First create the environment named kivy_venv in your current directory:
-
-```
-python -m virtualenv kivy_venv
-```
--  Activate the virtual environment. You’ll have to do this step from the current directory every time you start a new terminal. On windows CMD do:
-
-```
-kivy_venv\Scripts\activate
-```
-
--  If you’re in a bash terminal, instead do:
-
-```
-source kivy_venv/Scripts/activate
-```
-
-2. Install the dependencies (skip gstreamer (~120MB) if not needed, see Kivy’s dependencies). If you are upgrading Kivy, see Updating Kivy from a previous release
-
-```
-python -m pip install docutils pygments pypiwin32 kivy_deps.sdl2==0.1.* kivy_deps.glew==0.1.*
-python -m pip install kivy_deps.gstreamer==0.1.*
-```
-
-3. Install kivy:
-
-```
-python -m pip install kivy==1.11.1
-```
-
-
-<p style="color:#FF0000";>Red paragraph text</p>
+_Documentacion CONDA_
