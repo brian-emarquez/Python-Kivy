@@ -60,13 +60,13 @@ conda install kivy -c conda-forge
 
 ## Comandos 🧑‍💻
 
-Verifica la versión de CONDA
+_Verifica la versión de CONDA_
 ```
 conda --version
 ````
 
 _Listado de Modulos instalados CONDA_
 ```
-conda list
+_CONDA list_
 ````
 
