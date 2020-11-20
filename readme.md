@@ -60,6 +60,21 @@ conda activate prueba
 conda install kivy -c conda-forge
 ```
 
+## Ejecutar Primera Ventana
+
+- Conda Activate
+```
+conda activate prueba
+```
+- Ejecutar Shell
+```
+python
+```
+- Run
+```
+App().run()
+```
+
 ## Comandos 🧑‍💻
 
 _Verifica la versión de CONDA_
