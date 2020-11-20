@@ -1,0 +1,37 @@
+{
+  "build": "1_cp39",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [
+    "pypy <0a0",
+    "python_abi * *_cp39"
+  ],
+  "depends": [
+    "python 3.9.*"
+  ],
+  "extracted_package_dir": "D:\\Anaconda\\pkgs\\python_abi-3.9-1_cp39",
+  "features": "",
+  "files": [],
+  "fn": "python_abi-3.9-1_cp39.tar.bz2",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "D:\\Anaconda\\pkgs\\python_abi-3.9-1_cp39",
+    "type": 1
+  },
+  "md5": "4f11fc3c42d6aff5cc1daff5e1e6caca",
+  "name": "python_abi",
+  "package_tarball_full_path": "D:\\Anaconda\\pkgs\\python_abi-3.9-1_cp39.tar.bz2",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "4e82e71dabb1abf9ae97c994fb073d15eb9ac888c7988eeecd9b096c8bf3c715",
+  "size": 4359,
+  "subdir": "win-64",
+  "timestamp": 1602118207595,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/python_abi-3.9-1_cp39.tar.bz2",
+  "version": "3.9"
+}

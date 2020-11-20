@@ -1,0 +1,13 @@
+prefix=D:/Anaconda/envs/prueba/Library
+exec_prefix=D:/Anaconda/envs/prueba/Library
+libdir=D:/Anaconda/envs/prueba/Library/lib
+sharedlibdir=D:/Anaconda/envs/prueba/Library/lib
+includedir=D:/Anaconda/envs/prueba/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.11
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

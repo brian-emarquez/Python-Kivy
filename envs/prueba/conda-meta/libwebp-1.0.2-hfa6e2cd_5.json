@@ -1,0 +1,123 @@
+{
+  "build": "hfa6e2cd_5",
+  "build_number": 5,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "vc >=14,<15.0a0"
+  ],
+  "extracted_package_dir": "D:\\Anaconda\\pkgs\\libwebp-1.0.2-hfa6e2cd_5",
+  "features": "",
+  "files": [
+    "Library/bin/cwebp.exe",
+    "Library/bin/dwebp.exe",
+    "Library/bin/libwebp.dll",
+    "Library/bin/libwebpdecoder.dll",
+    "Library/bin/libwebpdemux.dll",
+    "Library/include/webp/decode.h",
+    "Library/include/webp/encode.h",
+    "Library/include/webp/types.h",
+    "Library/lib/libwebp.lib",
+    "Library/lib/libwebpdecoder.lib",
+    "Library/lib/libwebpdemux.lib"
+  ],
+  "fn": "libwebp-1.0.2-hfa6e2cd_5.tar.bz2",
+  "license": "Google",
+  "link": {
+    "source": "D:\\Anaconda\\pkgs\\libwebp-1.0.2-hfa6e2cd_5",
+    "type": 1
+  },
+  "md5": "ae1d7e0df2933cb653a883c395a347ab",
+  "name": "libwebp",
+  "package_tarball_full_path": "D:\\Anaconda\\pkgs\\libwebp-1.0.2-hfa6e2cd_5.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/cwebp.exe",
+        "path_type": "hardlink",
+        "sha256": "bf105534e0930056b4b6d6fd1d7391fb0a610c965061a0c253cdcbe17f82e60d",
+        "sha256_in_prefix": "bf105534e0930056b4b6d6fd1d7391fb0a610c965061a0c253cdcbe17f82e60d",
+        "size_in_bytes": 48128
+      },
+      {
+        "_path": "Library/bin/dwebp.exe",
+        "path_type": "hardlink",
+        "sha256": "f38abc26ee3a53b1ec2ccbfc0aa4ce01f7cafe0e47b6228b57702144ed76f2ef",
+        "sha256_in_prefix": "f38abc26ee3a53b1ec2ccbfc0aa4ce01f7cafe0e47b6228b57702144ed76f2ef",
+        "size_in_bytes": 30720
+      },
+      {
+        "_path": "Library/bin/libwebp.dll",
+        "path_type": "hardlink",
+        "sha256": "241594ac615efea13db48e2409a3881914d37c353e59100ae3c3855b6e122113",
+        "sha256_in_prefix": "241594ac615efea13db48e2409a3881914d37c353e59100ae3c3855b6e122113",
+        "size_in_bytes": 502272
+      },
+      {
+        "_path": "Library/bin/libwebpdecoder.dll",
+        "path_type": "hardlink",
+        "sha256": "9625d3a56605b39a6486fcff81b0a2094fe1a043e9d91ff35fd73b0b3c1683b3",
+        "sha256_in_prefix": "9625d3a56605b39a6486fcff81b0a2094fe1a043e9d91ff35fd73b0b3c1683b3",
+        "size_in_bytes": 243200
+      },
+      {
+        "_path": "Library/bin/libwebpdemux.dll",
+        "path_type": "hardlink",
+        "sha256": "4922ff7de8b50f633dbded071d6cb1a1a3250bafbc45c7aca5f6bb790392bb61",
+        "sha256_in_prefix": "4922ff7de8b50f633dbded071d6cb1a1a3250bafbc45c7aca5f6bb790392bb61",
+        "size_in_bytes": 22016
+      },
+      {
+        "_path": "Library/include/webp/decode.h",
+        "path_type": "hardlink",
+        "sha256": "4bc2f4ee8f5c012ee5a925279237426484d6dee2e8e876c830e133865d237e41",
+        "sha256_in_prefix": "4bc2f4ee8f5c012ee5a925279237426484d6dee2e8e876c830e133865d237e41",
+        "size_in_bytes": 23805
+      },
+      {
+        "_path": "Library/include/webp/encode.h",
+        "path_type": "hardlink",
+        "sha256": "39b04299c91eeecc7d5b822c6d8a4d2ed4169c5dfb481c7f49a0414f19601d1a",
+        "sha256_in_prefix": "39b04299c91eeecc7d5b822c6d8a4d2ed4169c5dfb481c7f49a0414f19601d1a",
+        "size_in_bytes": 27478
+      },
+      {
+        "_path": "Library/include/webp/types.h",
+        "path_type": "hardlink",
+        "sha256": "c0a3c46ad233e765a2f72ccda668c47a726dba7c479671f0bd70a3e57d5b3290",
+        "sha256_in_prefix": "c0a3c46ad233e765a2f72ccda668c47a726dba7c479671f0bd70a3e57d5b3290",
+        "size_in_bytes": 1662
+      },
+      {
+        "_path": "Library/lib/libwebp.lib",
+        "path_type": "hardlink",
+        "sha256": "37eeab925b415d580bfd15e1fbeb14aef068009e4cda88a6428f8bacf68683c3",
+        "sha256_in_prefix": "37eeab925b415d580bfd15e1fbeb14aef068009e4cda88a6428f8bacf68683c3",
+        "size_in_bytes": 19264
+      },
+      {
+        "_path": "Library/lib/libwebpdecoder.lib",
+        "path_type": "hardlink",
+        "sha256": "69454ecc2d351a61b96bb1e063a4c844321bc94b71454a000d7de973b88866af",
+        "sha256_in_prefix": "69454ecc2d351a61b96bb1e063a4c844321bc94b71454a000d7de973b88866af",
+        "size_in_bytes": 10828
+      },
+      {
+        "_path": "Library/lib/libwebpdemux.lib",
+        "path_type": "hardlink",
+        "sha256": "661b028a8b1fe73f016f90c5b88a3e83cc930a7c8c793359be76ea523e43abda",
+        "sha256_in_prefix": "661b028a8b1fe73f016f90c5b88a3e83cc930a7c8c793359be76ea523e43abda",
+        "size_in_bytes": 6546
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "bee3def99635265bfb89074c09da10647055929e92dee8910ab18afbed00d891",
+  "size": 364274,
+  "subdir": "win-64",
+  "timestamp": 1578279200560,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/libwebp-1.0.2-hfa6e2cd_5.tar.bz2",
+  "version": "1.0.2"
+}

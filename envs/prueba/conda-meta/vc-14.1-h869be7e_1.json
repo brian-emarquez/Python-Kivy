@@ -1,0 +1,34 @@
+{
+  "build": "h869be7e_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "vs2015_runtime >=14.16.27012"
+  ],
+  "extracted_package_dir": "D:\\Anaconda\\pkgs\\vc-14.1-h869be7e_1",
+  "features": "",
+  "files": [],
+  "fn": "vc-14.1-h869be7e_1.tar.bz2",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "D:\\Anaconda\\pkgs\\vc-14.1-h869be7e_1",
+    "type": 1
+  },
+  "md5": "4fae57303daa91367eca263374e4a638",
+  "name": "vc",
+  "package_tarball_full_path": "D:\\Anaconda\\pkgs\\vc-14.1-h869be7e_1.tar.bz2",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "a502679562eb11b92520a331ab3a0e7344b4e0bc26f2f977f15c9033712c57ed",
+  "size": 6305,
+  "subdir": "win-64",
+  "timestamp": 1585657804217,
+  "track_features": "vc14",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/vc-14.1-h869be7e_1.tar.bz2",
+  "version": "14.1"
+}

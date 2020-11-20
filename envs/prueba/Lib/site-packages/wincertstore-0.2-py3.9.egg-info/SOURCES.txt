@@ -1,0 +1,14 @@
+CHANGES.txt
+LICENSE
+MANIFEST.in
+README.txt
+runtox.bat
+setup.cfg
+setup.py
+tests.py
+tox.ini
+wincertstore.py
+wincertstore.egg-info/PKG-INFO
+wincertstore.egg-info/SOURCES.txt
+wincertstore.egg-info/dependency_links.txt
+wincertstore.egg-info/top_level.txt
