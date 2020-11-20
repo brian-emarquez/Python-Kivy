@@ -74,7 +74,7 @@ python
 ```
 App().run()
 ```
-
+![ANACONDA](./images/ventana.png)
 ## Comandos 🧑‍💻
 
 _Verifica la versión de CONDA_
