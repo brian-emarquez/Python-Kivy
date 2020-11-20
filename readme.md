@@ -33,9 +33,28 @@ Anaconda es un distribución libre y abierta1​ de los lenguajes Python y R, ut
 ![anaconda](./images/Anaconda-Navigator.png)
 
 📦 [Install Anaconda](https://www.anaconda.com/) Intalador de Anaconda.<br>
+   [Comando Conda](https://www.interactivechaos.com/recursos-educativos/comandos-conda) Comandos Conda.<br>
 
 ## Installing the kivy stable release
 
 [Installation on Windows](https://kivy.org/doc/stable/installation/installation-windows.htmly).<br>
 
 _Documentacion CONDA_
+
+[ANACONDA](https://kivy.org/#download)
+
+- crear
+```
+conda create -n prueba
+```
+
+- Conda Activate
+```
+conda activate prueba
+```
+
+- Install using conda with conda-forge: conda activate 
+```
+conda install kivy -c conda-forge.
+```
+
