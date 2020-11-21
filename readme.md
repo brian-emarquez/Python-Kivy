@@ -88,3 +88,13 @@ _Listado de Modulos instalados CONDA_
 CONDA list
 ````
 
+_Borrar Modulos Instalados_
+```
+CONDA remove nombreModulo
+````
+
+_ver las Cartepa env_
+```
+conda env list
+````
+
