@@ -85,6 +85,6 @@ conda --version
 
 _Listado de Modulos instalados CONDA_
 ```
-_CONDA list_
+CONDA list
 ````
 
