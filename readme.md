@@ -93,8 +93,12 @@ _Borrar Modulos Instalados_
 CONDA remove nombreModulo
 ````
 
-_ver las Cartepa env_
+_ver los Entornos env_
 ```
 conda env list
 ````
 
+_Borrar entornos env_
+```
+conda env remove n entornos
+````
