@@ -74,7 +74,7 @@ python
 ```
 App().run()
 ```
--Ventana de Ejecucion_
+_Ventana de Ejecucion_
 ![ANACONDA](./images/ventana.png)
 ## Comandos 🧑‍💻
 
@@ -102,3 +102,7 @@ _Borrar entornos env_
 ```
 conda env remove n entornos
 ````
+
+## HELLO
+
+![ANACONDA](./images/hello.png)
