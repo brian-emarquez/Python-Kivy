@@ -41,7 +41,7 @@ Anaconda es un distribución libre y abierta1​ de los lenguajes Python y R, ut
 
 _Documentacion CONDA_
 
-[ANACONDA](https://kivy.org/#download)
+[ANACONDA](https://kivy.org/#download)<br>
  _Los Comandos se deben usar con modo Administrador_
 - Crear
 ```
