@@ -10,7 +10,7 @@ from kivy.uix.widget import Widget
 from kivy.properties import ObjectProperty
 from kivy.lang import Builder
 
-Builder.load_file('whatever.kv')
+Builder.load_file('color.kv')
 
 class MyGridLayout(Widget):
 
