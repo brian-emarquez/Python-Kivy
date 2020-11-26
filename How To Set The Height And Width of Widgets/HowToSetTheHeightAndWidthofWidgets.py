@@ -1,4 +1,4 @@
-# Button Column Span Trick
+# How To Set The Height And Width of Widgets
 
 import kivy
 from kivy.app import App
