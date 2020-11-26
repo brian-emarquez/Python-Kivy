@@ -10,7 +10,45 @@ from kivy.uix.widget import Widget
 from kivy.properties import ObjectProperty
 from kivy.lang import Builder
 
-Builder.load_file('whatever.kv')
+Builder.load_string("""
+
+<MyGridLayout>
+
+    name: name
+    pizza:pizza
+    color:color
+
+    GridLayout:
+        cols:1
+        size: root.width, root.height
+
+        GridLayout:
+            cols:2
+
+            Label:
+                text: "Name 1"
+            TextInput:
+                id: name
+                multiline:False
+            
+            Label:
+                text: "Favorite Pizza 1"
+            TextInput:
+                id: pizza
+                multiline:False
+
+            Label:
+                text: "Favorite Color 1"
+            TextInput:
+                id:color
+                multiline:False
+
+        Button:
+            text: "Submit"
+            font_size:32
+            on_press: root.press()
+
+        """)
 
 class MyGridLayout(Widget):
 
