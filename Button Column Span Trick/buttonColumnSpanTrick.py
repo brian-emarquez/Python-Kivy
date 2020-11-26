@@ -5,7 +5,6 @@ from kivy.uix.gridlayout import GridLayout
 from kivy.uix.textinput import TextInput
 from kivy.uix.button import Button
 
-#kivy.require('1.11.1')
 
 class MyGridLayout(GridLayout):
     # Initialize infinite keywords
@@ -14,24 +13,34 @@ class MyGridLayout(GridLayout):
         super(MyGridLayout, self).__init__(**kwargs)
 
         # set columns
-        self.cols = 2
+        self.cols = 1
+
+        # Create a second gridlayout
+        self.top_grid = GridLayout()
+        self.top_grid.cols = 2
+
+
 
         # Add widgets
-        self.add_widget(Label(text="Name: "))
+        self.top_grid.add_widget(Label(text="Name: "))
         # Add input Box
         self.name = TextInput(multiline=True)
-        self.add_widget(self.name)
+        self.top_grid.add_widget(self.name)
 
-        self.add_widget(Label(text="Favorite Pizza: "))
+        self.top_grid.add_widget(Label(text="Favorite Pizza: "))
         # Add input Box
         self.pizza = TextInput(multiline=False)
-        self.add_widget(self.pizza)
+        self.top_grid.add_widget(self.pizza)
 
-        self.add_widget(Label(text="Favorite Color: "))
+        self.top_grid.add_widget(Label(text="Favorite Color: "))
         # Add input Box
         self.color = TextInput(multiline=False)
-        self.add_widget(self.color)
+        self.top_grid.add_widget(self.color)
 
+        
+        # add the new top_grid to our app
+        self.add_widget(self.top_grid)
+        
         # Create a Submit Button
         self.submit = Button(text="Submit", font_size=32)
         #Binf the Button
