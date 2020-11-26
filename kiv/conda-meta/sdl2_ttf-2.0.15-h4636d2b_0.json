@@ -1,0 +1,61 @@
+{
+  "build": "h4636d2b_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "freetype >=2.9.1,<3.0a0",
+    "sdl2 2.0.*",
+    "vc 14.*"
+  ],
+  "extracted_package_dir": "C:\\Users\\brian\\.conda\\pkgs\\sdl2_ttf-2.0.15-h4636d2b_0",
+  "features": "",
+  "files": [
+    "Library/bin/SDL2_ttf.dll",
+    "Library/include/SDL2/SDL_ttf.h",
+    "Library/lib/SDL2_ttf.lib"
+  ],
+  "fn": "sdl2_ttf-2.0.15-h4636d2b_0.tar.bz2",
+  "license": "ZLIB",
+  "link": {
+    "source": "C:\\Users\\brian\\.conda\\pkgs\\sdl2_ttf-2.0.15-h4636d2b_0",
+    "type": 1
+  },
+  "md5": "b252398b02ef829ed020580b64d98950",
+  "name": "sdl2_ttf",
+  "package_tarball_full_path": "C:\\Users\\brian\\.conda\\pkgs\\sdl2_ttf-2.0.15-h4636d2b_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/SDL2_ttf.dll",
+        "path_type": "hardlink",
+        "sha256": "14d2b5751b574ebb0e0c59e33355a445bdfeff3c56267500720e01ef6ad2fd21",
+        "sha256_in_prefix": "14d2b5751b574ebb0e0c59e33355a445bdfeff3c56267500720e01ef6ad2fd21",
+        "size_in_bytes": 32768
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_ttf.h",
+        "path_type": "hardlink",
+        "sha256": "d8812df3f415637d49ea647d66d10d4ba7cead505445a5d8e6d089a92052d58b",
+        "sha256_in_prefix": "d8812df3f415637d49ea647d66d10d4ba7cead505445a5d8e6d089a92052d58b",
+        "size_in_bytes": 13072
+      },
+      {
+        "_path": "Library/lib/SDL2_ttf.lib",
+        "path_type": "hardlink",
+        "sha256": "005314059274472a5bfb7462b81c7069555e996feb6227753cb4355c37b4cb06",
+        "sha256_in_prefix": "005314059274472a5bfb7462b81c7069555e996feb6227753cb4355c37b4cb06",
+        "size_in_bytes": 12122
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "86da2e24573a47523cec117322a1ed884eaf0b802d04d816be5ccbcd9e2f85b3",
+  "size": 26945,
+  "subdir": "win-64",
+  "timestamp": 1556176437793,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/sdl2_ttf-2.0.15-h4636d2b_0.tar.bz2",
+  "version": "2.0.15"
+}

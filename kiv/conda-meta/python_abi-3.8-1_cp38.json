@@ -1,0 +1,37 @@
+{
+  "build": "1_cp38",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [
+    "pypy <0a0",
+    "python_abi * *_cp38"
+  ],
+  "depends": [
+    "python 3.8.*"
+  ],
+  "extracted_package_dir": "C:\\Users\\brian\\.conda\\pkgs\\python_abi-3.8-1_cp38",
+  "features": "",
+  "files": [],
+  "fn": "python_abi-3.8-1_cp38.tar.bz2",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\brian\\.conda\\pkgs\\python_abi-3.8-1_cp38",
+    "type": 1
+  },
+  "md5": "18ced0580562dca07ae039050748cc50",
+  "name": "python_abi",
+  "package_tarball_full_path": "C:\\Users\\brian\\.conda\\pkgs\\python_abi-3.8-1_cp38.tar.bz2",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "e3084eb179bf66f7e0cc790d2c1210214d35af71ebc69d1015c2f7d2a2eb0ed9",
+  "size": 3731,
+  "subdir": "win-64",
+  "timestamp": 1583345115246,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/python_abi-3.8-1_cp38.tar.bz2",
+  "version": "3.8"
+}

@@ -1,0 +1,140 @@
+{
+  "build": "py38haa244fe_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.8,<3.9.0a0",
+    "python_abi 3.8.* *_cp38"
+  ],
+  "extracted_package_dir": "C:\\Users\\brian\\.conda\\pkgs\\certifi-2020.11.8-py38haa244fe_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/certifi-2020.11.8-py3.8.egg-info/PKG-INFO",
+    "Lib/site-packages/certifi-2020.11.8-py3.8.egg-info/SOURCES.txt",
+    "Lib/site-packages/certifi-2020.11.8-py3.8.egg-info/dependency_links.txt",
+    "Lib/site-packages/certifi-2020.11.8-py3.8.egg-info/installed-files.txt",
+    "Lib/site-packages/certifi-2020.11.8-py3.8.egg-info/not-zip-safe",
+    "Lib/site-packages/certifi-2020.11.8-py3.8.egg-info/top_level.txt",
+    "Lib/site-packages/certifi/__init__.py",
+    "Lib/site-packages/certifi/__main__.py",
+    "Lib/site-packages/certifi/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/certifi/__pycache__/__main__.cpython-38.pyc",
+    "Lib/site-packages/certifi/__pycache__/core.cpython-38.pyc",
+    "Lib/site-packages/certifi/cacert.pem",
+    "Lib/site-packages/certifi/core.py"
+  ],
+  "fn": "certifi-2020.11.8-py38haa244fe_0.tar.bz2",
+  "license": "ISC",
+  "link": {
+    "source": "C:\\Users\\brian\\.conda\\pkgs\\certifi-2020.11.8-py38haa244fe_0",
+    "type": 1
+  },
+  "md5": "1e3a88f8db13d19c4d23422e2f8f0e6c",
+  "name": "certifi",
+  "package_tarball_full_path": "C:\\Users\\brian\\.conda\\pkgs\\certifi-2020.11.8-py38haa244fe_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/certifi-2020.11.8-py3.8.egg-info/PKG-INFO",
+        "path_type": "hardlink",
+        "sha256": "9bce1785e10c4de16b53696203e26844269dea9e1499e6d36a1145c36029d74b",
+        "sha256_in_prefix": "9bce1785e10c4de16b53696203e26844269dea9e1499e6d36a1145c36029d74b",
+        "size_in_bytes": 3534
+      },
+      {
+        "_path": "Lib/site-packages/certifi-2020.11.8-py3.8.egg-info/SOURCES.txt",
+        "path_type": "hardlink",
+        "sha256": "c114f069d008d26b348202e02bfe15105bad6ff7bf233a1a3f874d4889c584b0",
+        "sha256_in_prefix": "c114f069d008d26b348202e02bfe15105bad6ff7bf233a1a3f874d4889c584b0",
+        "size_in_bytes": 278
+      },
+      {
+        "_path": "Lib/site-packages/certifi-2020.11.8-py3.8.egg-info/dependency_links.txt",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "Lib/site-packages/certifi-2020.11.8-py3.8.egg-info/installed-files.txt",
+        "path_type": "hardlink",
+        "sha256": "3f52cfc5e810ba5dfd3726a9ce414349111226232a6778dbf8a5d9576c38afb3",
+        "sha256_in_prefix": "3f52cfc5e810ba5dfd3726a9ce414349111226232a6778dbf8a5d9576c38afb3",
+        "size_in_bytes": 305
+      },
+      {
+        "_path": "Lib/site-packages/certifi-2020.11.8-py3.8.egg-info/not-zip-safe",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "Lib/site-packages/certifi-2020.11.8-py3.8.egg-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "28cbb8bd409fb232eb90f6d235d81d7a44bea552730402453bffe723c345ebe5",
+        "sha256_in_prefix": "28cbb8bd409fb232eb90f6d235d81d7a44bea552730402453bffe723c345ebe5",
+        "size_in_bytes": 8
+      },
+      {
+        "_path": "Lib/site-packages/certifi/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "4e87017c7aea02440af755b98cd621447f0a2a2cf19245d9064ebc0d31e3d31a",
+        "sha256_in_prefix": "4e87017c7aea02440af755b98cd621447f0a2a2cf19245d9064ebc0d31e3d31a",
+        "size_in_bytes": 62
+      },
+      {
+        "_path": "Lib/site-packages/certifi/__main__.py",
+        "path_type": "hardlink",
+        "sha256": "c410688fdd394d45812d118034e71fee88ba7beddd30fe1c1281bd3b232cd758",
+        "sha256_in_prefix": "c410688fdd394d45812d118034e71fee88ba7beddd30fe1c1281bd3b232cd758",
+        "size_in_bytes": 243
+      },
+      {
+        "_path": "Lib/site-packages/certifi/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "5f3a8f609bf711aa6792c14ff32cd3f50f94072e5b4ad60403ed43da01f814bc",
+        "sha256_in_prefix": "5f3a8f609bf711aa6792c14ff32cd3f50f94072e5b4ad60403ed43da01f814bc",
+        "size_in_bytes": 212
+      },
+      {
+        "_path": "Lib/site-packages/certifi/__pycache__/__main__.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "f027ff7afae5330d8097d1f9589dedc10626cf981800f0db9df931941903e60c",
+        "sha256_in_prefix": "f027ff7afae5330d8097d1f9589dedc10626cf981800f0db9df931941903e60c",
+        "size_in_bytes": 377
+      },
+      {
+        "_path": "Lib/site-packages/certifi/__pycache__/core.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "e63909486eb5977739f0afc4fd5584c2abbf7e99d62366293efdad2bccd1660f",
+        "sha256_in_prefix": "e63909486eb5977739f0afc4fd5584c2abbf7e99d62366293efdad2bccd1660f",
+        "size_in_bytes": 1093
+      },
+      {
+        "_path": "Lib/site-packages/certifi/cacert.pem",
+        "path_type": "hardlink",
+        "sha256": "53b8854f8fe7fbb5c27c7a5cf08e3a69de641ee1af0d279d95ad9f75b428414a",
+        "sha256_in_prefix": "53b8854f8fe7fbb5c27c7a5cf08e3a69de641ee1af0d279d95ad9f75b428414a",
+        "size_in_bytes": 281608
+      },
+      {
+        "_path": "Lib/site-packages/certifi/core.py",
+        "path_type": "hardlink",
+        "sha256": "574bb2c4a398773eae9434aeb1c96b2e68db3e0397b03d019c47f4490ece9e81",
+        "sha256_in_prefix": "574bb2c4a398773eae9434aeb1c96b2e68db3e0397b03d019c47f4490ece9e81",
+        "size_in_bytes": 2303
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "7e3d71a516c894f0d66de6b491ea00388b86500759162d2b26911b2fb373b213",
+  "size": 154067,
+  "subdir": "win-64",
+  "timestamp": 1605125395139,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/certifi-2020.11.8-py38haa244fe_0.tar.bz2",
+  "version": "2020.11.8"
+}

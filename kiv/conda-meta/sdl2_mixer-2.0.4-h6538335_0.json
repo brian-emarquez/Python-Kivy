@@ -1,0 +1,61 @@
+{
+  "build": "h6538335_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "sdl2 2.0.*",
+    "smpeg2 2.0.*",
+    "vc >=14,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\brian\\.conda\\pkgs\\sdl2_mixer-2.0.4-h6538335_0",
+  "features": "",
+  "files": [
+    "Library/bin/SDL2_mixer.dll",
+    "Library/include/SDL2/SDL_mixer.h",
+    "Library/lib/SDL2_mixer.lib"
+  ],
+  "fn": "sdl2_mixer-2.0.4-h6538335_0.tar.bz2",
+  "license": "ZLIB",
+  "link": {
+    "source": "C:\\Users\\brian\\.conda\\pkgs\\sdl2_mixer-2.0.4-h6538335_0",
+    "type": 1
+  },
+  "md5": "58cb1e492c92e22945443ed96386013f",
+  "name": "sdl2_mixer",
+  "package_tarball_full_path": "C:\\Users\\brian\\.conda\\pkgs\\sdl2_mixer-2.0.4-h6538335_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/SDL2_mixer.dll",
+        "path_type": "hardlink",
+        "sha256": "4be303a9fe5929ae15c29022acbab1a8173b8870a9dd8db39e07be08a85584d8",
+        "sha256_in_prefix": "4be303a9fe5929ae15c29022acbab1a8173b8870a9dd8db39e07be08a85584d8",
+        "size_in_bytes": 178688
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_mixer.h",
+        "path_type": "hardlink",
+        "sha256": "4a2f6bb30a144b881f133499d13d18098034fcc95af1517ac0580d5d09c2ee63",
+        "sha256_in_prefix": "4a2f6bb30a144b881f133499d13d18098034fcc95af1517ac0580d5d09c2ee63",
+        "size_in_bytes": 28872
+      },
+      {
+        "_path": "Library/lib/SDL2_mixer.lib",
+        "path_type": "hardlink",
+        "sha256": "5a991b75e371726df3069f136a6f523be4cbcf7fd4372a588f12aa7c4cc68add",
+        "sha256_in_prefix": "5a991b75e371726df3069f136a6f523be4cbcf7fd4372a588f12aa7c4cc68add",
+        "size_in_bytes": 17182
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "0c64e1ca4b520b4cba9916532d8b7c4353f15a3263e278059ca808343ea1b995",
+  "size": 85135,
+  "subdir": "win-64",
+  "timestamp": 1556696885114,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/sdl2_mixer-2.0.4-h6538335_0.tar.bz2",
+  "version": "2.0.4"
+}

@@ -1,0 +1,12 @@
+prefix=C:/Users/brian/.conda/envs/kiv/Library
+exec_prefix=C:/Users/brian/.conda/envs/kiv/Library
+libdir=C:/Users/brian/.conda/envs/kiv/Library/lib
+includedir=C:/Users/brian/.conda/envs/kiv/Library/include/libpng16
+
+Name: libpng
+Description: Loads and saves PNG files
+Version: 1.6.37
+Requires: zlib
+Libs: -L${libdir} -lpng16
+Libs.private: -lz -lm
+Cflags: -I${includedir}
