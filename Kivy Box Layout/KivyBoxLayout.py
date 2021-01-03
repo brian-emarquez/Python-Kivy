@@ -12,28 +12,16 @@ from kivy.uix.widget import Widget
 from kivy.properties import ObjectProperty
 from kivy.lang import Builder
 
-Builder.load_file('color.kv')
 
-class MyGridLayout(Widget):
+Builder.load_file('box.kv')
 
-    name = ObjectProperty(None)
-    pizza = ObjectProperty(None)
-    color = ObjectProperty(None)
+class MyLayout(Widget):
+    pass
 
-    def press(self):
-        name = self.name.text
-        pizza =  self.pizza.text
-        color =  self.color.text
-
-        print (f'Hello {name}, you like {pizza} pizza, and your favorite color es {color}')
-        # Clear the input boxes
-        self.name.text= ""
-        self.pizza.text = ""
-        self.color.text = ""
 
 class AwersomeApp(App): #my.kv
     def build(self):
-        return MyGridLayout()
+        return MyLayout()
 
 if __name__ == '__main__':
     AwersomeApp().run()
