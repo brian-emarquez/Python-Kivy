@@ -1,5 +1,5 @@
 
-<h2 align="center">Python Kivy - kivy &nbsp;:heart:&nbsp;</h2>
+<h2 align="center">Python Kivy - kivy &nbsp;:computer:&nbsp;</h2>
 
 <p align="center">
   
@@ -16,7 +16,7 @@
   
 ![kivy](./images/Kivy.png)
 
-## ¿Que es Kiby? 💻
+## ¿Que es Kiby?
 
 Kivy es una biblioteca de código abierto de Python para el rápido desarrollo de interfaces de usuario multiplataforma. Las aplicaciones Kivy se pueden desarrollar para Linux, Windows, OS X, Android e iOS usando el mismo código base.
 
