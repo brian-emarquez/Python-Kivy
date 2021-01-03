@@ -47,7 +47,7 @@ _Documentacion CONDA_
 ```
 conda create -n prueba python=3.8
 ```
-_Los Archivos se Almacena en el disco C:\Users\brian\.conda\envs_
+_Los Archivos se Almacena en el disco C:\Users\brian\conda\envs_
 
 - Conda Activate
 ```
