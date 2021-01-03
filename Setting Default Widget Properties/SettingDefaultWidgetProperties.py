@@ -13,7 +13,7 @@ from kivy.properties import ObjectProperty
 from kivy.lang import Builder
 
 
-Builder.load_file('box.kv')
+Builder.load_file('inherit.kv')
 
 class MyLayout(Widget):
     pass
