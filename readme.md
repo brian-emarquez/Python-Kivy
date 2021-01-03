@@ -77,7 +77,7 @@ App().run()
 ```
 _Ventana de Ejecucion_
 ![ANACONDA](./images/ventana.png)
-## Comandos 🧑‍💻
+## Comandos
 
 _Verifica la versión de CONDA_
 ```
