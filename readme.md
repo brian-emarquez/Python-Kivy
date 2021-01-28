@@ -12,6 +12,9 @@
   <a href="https://github.com/BrianMarquez3/Python-Kivy/network">
     <img src="https://img.shields.io/github/forks/BrianMarquez3/Python-Kivy.svg?style=flat" alt="Forks">
   </a>
+    <a href="https://github.com/BrianMarquez3/Python-Kivy/network">
+    <img src="https://img.shields.io/badge/Plataform-Windows-blue">
+  </a>
 </p>
   
 ![kivy](./images/Kivy.png)
