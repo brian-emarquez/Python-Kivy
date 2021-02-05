@@ -110,3 +110,7 @@ conda env remove n entornos
 ## HELLO
 
 ![ANACONDA](./images/hello.png)
+
+## Paypal
+
+🩸 Hacer una donación [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y) 🍵
