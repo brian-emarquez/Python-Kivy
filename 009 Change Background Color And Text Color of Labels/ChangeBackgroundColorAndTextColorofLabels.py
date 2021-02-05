@@ -1,5 +1,5 @@
 #############################################
-# Setting Default Widget Properties
+# Change Background Color And Text Color of Labels
 #############################################
 
 import kivy
@@ -13,7 +13,7 @@ from kivy.properties import ObjectProperty
 from kivy.lang import Builder
 
 
-Builder.load_file('inherit.kv')
+Builder.load_file('label_color.kv')
 
 class MyLayout(Widget):
     pass
