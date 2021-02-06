@@ -18,6 +18,27 @@
 </p>
   
 ![kivy](./images/Kivy.png)
+<table>
+          <tr>
+            <td>A</td>
+            <td>B</td>
+            <td rowspan="3">C</td>
+            <td>D</td>
+          </tr>
+          <tr>
+            <td rowspan="2">E</td>
+            <td>F</td>
+            <td rowspan="3">G</td>
+          </tr>
+          <tr>
+            <td>H</td>
+          </tr>
+          <tr>
+            <td>I</td>
+            <td>J</td>
+            <td>K</td>
+          </tr>
+        </table>
 
 ## Que es Kiby
 
