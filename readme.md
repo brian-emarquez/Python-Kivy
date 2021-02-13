@@ -26,10 +26,17 @@
 | 001     |✔️ | [Input Boxes and Buttons](https://github.com/BrianMarquez3/Python-Kivy/tree/main/001%20Input%20Boxes%20and%20Buttons)    | 
 | 002     |✔️ | [Button Column Span Trick](https://github.com/BrianMarquez3/Python-Kivy/tree/main/002%20Button%20Column%20Span%20Trick)    | 
 | 003     |✔️ | [How To Set The Height And Width of Widgets](https://github.com/BrianMarquez3/Python-Kivy/tree/main/003%20How%20To%20Set%20The%20Height%20And%20Width%20of%20Widgets)    | 
-| 004     |✔️ | [Kivy Design Lenguaje](https://github.com/BrianMarquez3/Python-Kivy/tree/main/004%20Kivy%20Design%20Lenguaje)    | 
-
-
-
+| 004     |✔️ | [Kivy Design Lenguaje](https://github.com/BrianMarquez3/Python-Kivy/tree/main/004%20Kivy%20Design%20Lenguaje) | 
+| 005     |✔️ | [The Kivy Builder](https://github.com/BrianMarquez3/Python-Kivy/tree/main/005%20The%20Kivy%20Builder) |
+| 006    |✔️ | [Changing Kivy Button Colors](https://github.com/BrianMarquez3/Python-Kivy/tree/main/006%20Changing%20Kivy%20Button%20Colors) |
+| 007    |✔️ | [Kivy Box Layout](https://github.com/BrianMarquez3/Python-Kivy/tree/main/007%20Kivy%20Box%20Layout) |
+| 008    |✔️ | [Setting Default Widget Properties](https://github.com/BrianMarquez3/Python-Kivy/tree/main/008%20Setting%20Default%20Widget%20Properties) |
+| 009    |✔️ | [Change Background Color And Text Color of Labels](https://github.com/BrianMarquez3/Python-Kivy/tree/main/009%20Change%20Background%20Color%20And%20Text%20Color%20of%20Labels) |
+| 010    |✔️ | [Two Ways To Change Background Colors](https://github.com/BrianMarquez3/Python-Kivy/blob/main/010%20Two%20Ways%20To%20Change%20Background%20Colors/readme.md) |
+| 011    |✔️ | [How To Use Images With Kivy](https://github.com/BrianMarquez3/Python-Kivy/tree/main/011%20How%20To%20Use%20Images%20With%20Kivy) |
+| 012    |✔️ | [Kivy Float Layout](https://github.com/BrianMarquez3/Python-Kivy/tree/main/012%20Kivy%20Float%20Layout) |
+| 013    |✔️ | [How To Update Labels](https://github.com/BrianMarquez3/Python-Kivy/tree/main/013%20How%20To%20Update%20Labels) |
+| 014    |✔️ | [Build A Simple Calculator App](https://github.com/BrianMarquez3/Python-Kivy/tree/main/014%20Build%20A%20Simple%20Calculator%20App) |
 
 ## Que es Kiby
 
