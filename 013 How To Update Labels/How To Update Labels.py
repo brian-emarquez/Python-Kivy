@@ -1,5 +1,5 @@
 #############################################
-#  Kivy Float Layout
+#  How To Update Labels
 #############################################
 
 import kivy
@@ -18,12 +18,19 @@ from kivy.core.window import Window
 Builder.load_file('float_layout2.kv')
 
 class MyLayout(Widget):
-    pass
+    def press(self):
+        #create variables for our wodget
+        name = self.ids.name_input.text
+        #print(name)
+
+        #update the label
+        self.ids.name_label.text = f'Hello {name}!'
+
+        # Clear  input box
+        self.ids.name_input.text = ''
 
 class AwersomeApp(App): #my.kv
     def build(self):
-
-        Window.clearcolor = (1,1,1,1)
         return MyLayout()
 
 if __name__ == '__main__':
