@@ -26,7 +26,6 @@
 | 001     |✔️ | [Input Boxes and Buttons](https://github.com/BrianMarquez3/Python-Kivy/tree/main/001%20Input%20Boxes%20and%20Buttons)    | 
 | 002     |✔️ | [Button Column Span Trick](https://github.com/BrianMarquez3/Python-Kivy/tree/main/002%20Button%20Column%20Span%20Trick)    | 
 | 003     |✔️ | [How To Set The Height And Width of Widgets](https://github.com/BrianMarquez3/Python-Kivy/tree/main/003%20How%20To%20Set%20The%20Height%20And%20Width%20of%20Widgets)    | 
-| 003     |✔️ | [How To Set The Height And Width of Widgets](https://github.com/BrianMarquez3/Python-Kivy/tree/main/003%20How%20To%20Set%20The%20Height%20And%20Width%20of%20Widgets)    | 
 | 004     |✔️ | [Kivy Design Lenguaje](https://github.com/BrianMarquez3/Python-Kivy/tree/main/004%20Kivy%20Design%20Lenguaje)    | 
 
 
