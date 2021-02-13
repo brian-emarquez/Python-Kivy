@@ -23,7 +23,7 @@
 
 | Numeration   | Check  |Topic          |Links       |
 | ------------ |--------|-------------- |-------------- |
-| 001     |✔️ | 001 Input Boxes and Buttons    |     https://github.com/BrianMarquez3/Python-Kivy/tree/main/001%20Input%20Boxes%20and%20Buttons           |
+| 001     |✔️ | 001 Input Boxes and Buttons    |   (Input Boxes and Buttons)  [https://github.com/BrianMarquez3/Python-Kivy/tree/main/001%20Input%20Boxes%20and%20Buttons]           |
 
 ## Que es Kiby
 
