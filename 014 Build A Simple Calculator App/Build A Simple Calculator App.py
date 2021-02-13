@@ -12,26 +12,20 @@ from kivy.uix.widget import Widget
 from kivy.properties import ObjectProperty
 from kivy.lang import Builder
 from kivy.core.window import Window
-#from kivy.uix.float_layout2 import float_layout2
+
+# Set the app size
+Window.size = (500, 700)
 
 # Designate our .kv design file
-Builder.load_file('float_layout2.kv')
+Builder.load_file('cal.kv')
 
 class MyLayout(Widget):
-    def press(self):
-        #create variables for our wodget
-        name = self.ids.name_input.text
-        #print(name)
+    def clear(self):
+        self.ids.calc_input.text = '0'
 
-        #update the label
-        self.ids.name_label.text = f'Hello {name}!'
-
-        # Clear  input box
-        self.ids.name_input.text = ''
-
-class AwersomeApp(App): #my.kv
+class CalculatorApp(App): #my.kv
     def build(self):
         return MyLayout()
 
 if __name__ == '__main__':
-    AwersomeApp().run()
+    CalculatorApp().run()
