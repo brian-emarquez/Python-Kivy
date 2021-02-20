@@ -37,6 +37,9 @@
 | 012    |✔️ | [Kivy Float Layout](https://github.com/BrianMarquez3/Python-Kivy/tree/main/012%20Kivy%20Float%20Layout) |
 | 013    |✔️ | [How To Update Labels](https://github.com/BrianMarquez3/Python-Kivy/tree/main/013%20How%20To%20Update%20Labels) |
 | 014    |✔️ | [Build A Simple Calculator App](https://github.com/BrianMarquez3/Python-Kivy/tree/main/014%20Build%20A%20Simple%20Calculator%20App) |
+| 015    |✔️ | [Calculator Addition Function](https://github.com/BrianMarquez3/Python-Kivy/tree/main/015%20Calculator%20Addition%20Function) |
+| 016    |✔️ | [Secondary Calculator Button Functions](https://github.com/BrianMarquez3/Python-Kivy/tree/main/016%20Secondary%20Calculator%20Button%20Functions) |
+| 017    |✔️ | [Fix Our Decimal Calculator Problem](https://github.com/BrianMarquez3/Python-Kivy/tree/main/017%20Fix%20Our%20Decimal%20Calculator%20Problem) |
 
 ## Que es Kiby
 
