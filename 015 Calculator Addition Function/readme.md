@@ -1,2 +1,3 @@
-##  How To Use Images With Kivy
+##  Calculator Addition Function
+
 
