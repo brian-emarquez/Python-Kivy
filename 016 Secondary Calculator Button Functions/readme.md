@@ -1,3 +1,3 @@
-##  Calculator Addition Function
+##  Secondary Calculator Button Functions
 
 
