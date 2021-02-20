@@ -34,8 +34,44 @@ class MyLayout(Widget):
         else:
             self.ids.calc_input.text = f'{prior}{button}' 
 
+# create addition function
+    def subtract(self):
+        prior = self.ids.calc_input.text
 
+        # slap a plus sign to the text box
+        self.ids.calc_input.text = f'{prior}-'
 
+    def add(self):
+        prior = self.ids.calc_input.text
+
+        # slap a plus sign to the text box
+        self.ids.calc_input.text = f'{prior}+'
+
+    def multiply(self):
+        prior = self.ids.calc_input.text
+
+        # slap a plus sign to the text box
+        self.ids.calc_input.text = f'{prior}x'
+
+    def divide(self):
+        prior = self.ids.calc_input.text
+
+        # slap a plus sign to the text box
+        self.ids.calc_input.text = f'{prior}/'
+
+    def equals(self):
+        prior = self.ids.calc_input.text
+
+        # addition
+        if "+" in prior:
+            num_list = prior.split("+")
+            answer = 0
+
+            for number in num_list:
+                answer =  answer + int(number)
+
+            #print(answer)    
+            self.ids.calc_input.text = str(answer)
 class CalculatorApp(App): #my.kv
     def build(self):
         return MyLayout()
