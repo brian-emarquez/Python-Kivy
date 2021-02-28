@@ -1,13 +1,13 @@
 ### Standalone Python EXE Executable
 
-_PYINSTALLER_
+_Pyinstaller_
 
 ```
 pip install pyinstaller
 ```
 
 ```
-pip install pfreeze
+pip install freeze
 ```
 
 
