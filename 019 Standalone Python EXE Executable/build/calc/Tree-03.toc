@@ -1,0 +1,1121 @@
+('C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+ 'Executable\\',
+ None,
+ [],
+ 'DATA',
+ [('cal.kv',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\cal.kv',
+   'DATA'),
+  ('calc.py',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\calc.py',
+   'DATA'),
+  ('calc.spec',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\calc.spec',
+   'DATA'),
+  ('__pycache__\\calc.cpython-39.pyc',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\__pycache__\\calc.cpython-39.pyc',
+   'DATA'),
+  ('dist\\calc\\api-ms-win-core-console-l1-1-0.dll',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\api-ms-win-core-console-l1-1-0.dll',
+   'DATA'),
+  ('dist\\calc\\api-ms-win-core-datetime-l1-1-0.dll',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\api-ms-win-core-datetime-l1-1-0.dll',
+   'DATA'),
+  ('dist\\calc\\api-ms-win-core-debug-l1-1-0.dll',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\api-ms-win-core-debug-l1-1-0.dll',
+   'DATA'),
+  ('dist\\calc\\api-ms-win-core-errorhandling-l1-1-0.dll',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\api-ms-win-core-errorhandling-l1-1-0.dll',
+   'DATA'),
+  ('dist\\calc\\api-ms-win-core-file-l1-1-0.dll',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\api-ms-win-core-file-l1-1-0.dll',
+   'DATA'),
+  ('dist\\calc\\api-ms-win-core-file-l1-2-0.dll',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\api-ms-win-core-file-l1-2-0.dll',
+   'DATA'),
+  ('dist\\calc\\api-ms-win-core-file-l2-1-0.dll',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\api-ms-win-core-file-l2-1-0.dll',
+   'DATA'),
+  ('dist\\calc\\api-ms-win-core-handle-l1-1-0.dll',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\api-ms-win-core-handle-l1-1-0.dll',
+   'DATA'),
+  ('dist\\calc\\api-ms-win-core-heap-l1-1-0.dll',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\api-ms-win-core-heap-l1-1-0.dll',
+   'DATA'),
+  ('dist\\calc\\api-ms-win-core-interlocked-l1-1-0.dll',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\api-ms-win-core-interlocked-l1-1-0.dll',
+   'DATA'),
+  ('dist\\calc\\api-ms-win-core-libraryloader-l1-1-0.dll',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\api-ms-win-core-libraryloader-l1-1-0.dll',
+   'DATA'),
+  ('dist\\calc\\api-ms-win-core-localization-l1-2-0.dll',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\api-ms-win-core-localization-l1-2-0.dll',
+   'DATA'),
+  ('dist\\calc\\api-ms-win-core-memory-l1-1-0.dll',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\api-ms-win-core-memory-l1-1-0.dll',
+   'DATA'),
+  ('dist\\calc\\api-ms-win-core-namedpipe-l1-1-0.dll',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\api-ms-win-core-namedpipe-l1-1-0.dll',
+   'DATA'),
+  ('dist\\calc\\api-ms-win-core-processenvironment-l1-1-0.dll',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\api-ms-win-core-processenvironment-l1-1-0.dll',
+   'DATA'),
+  ('dist\\calc\\api-ms-win-core-processthreads-l1-1-0.dll',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\api-ms-win-core-processthreads-l1-1-0.dll',
+   'DATA'),
+  ('dist\\calc\\api-ms-win-core-processthreads-l1-1-1.dll',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\api-ms-win-core-processthreads-l1-1-1.dll',
+   'DATA'),
+  ('dist\\calc\\api-ms-win-core-profile-l1-1-0.dll',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\api-ms-win-core-profile-l1-1-0.dll',
+   'DATA'),
+  ('dist\\calc\\api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'DATA'),
+  ('dist\\calc\\api-ms-win-core-string-l1-1-0.dll',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\api-ms-win-core-string-l1-1-0.dll',
+   'DATA'),
+  ('dist\\calc\\api-ms-win-core-synch-l1-1-0.dll',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\api-ms-win-core-synch-l1-1-0.dll',
+   'DATA'),
+  ('dist\\calc\\api-ms-win-core-synch-l1-2-0.dll',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\api-ms-win-core-synch-l1-2-0.dll',
+   'DATA'),
+  ('dist\\calc\\api-ms-win-core-sysinfo-l1-1-0.dll',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\api-ms-win-core-sysinfo-l1-1-0.dll',
+   'DATA'),
+  ('dist\\calc\\api-ms-win-core-timezone-l1-1-0.dll',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\api-ms-win-core-timezone-l1-1-0.dll',
+   'DATA'),
+  ('dist\\calc\\api-ms-win-core-util-l1-1-0.dll',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\api-ms-win-core-util-l1-1-0.dll',
+   'DATA'),
+  ('dist\\calc\\api-ms-win-crt-conio-l1-1-0.dll',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\api-ms-win-crt-conio-l1-1-0.dll',
+   'DATA'),
+  ('dist\\calc\\api-ms-win-crt-convert-l1-1-0.dll',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\api-ms-win-crt-convert-l1-1-0.dll',
+   'DATA'),
+  ('dist\\calc\\api-ms-win-crt-environment-l1-1-0.dll',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\api-ms-win-crt-environment-l1-1-0.dll',
+   'DATA'),
+  ('dist\\calc\\api-ms-win-crt-filesystem-l1-1-0.dll',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\api-ms-win-crt-filesystem-l1-1-0.dll',
+   'DATA'),
+  ('dist\\calc\\api-ms-win-crt-heap-l1-1-0.dll',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\api-ms-win-crt-heap-l1-1-0.dll',
+   'DATA'),
+  ('dist\\calc\\api-ms-win-crt-locale-l1-1-0.dll',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\api-ms-win-crt-locale-l1-1-0.dll',
+   'DATA'),
+  ('dist\\calc\\api-ms-win-crt-math-l1-1-0.dll',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\api-ms-win-crt-math-l1-1-0.dll',
+   'DATA'),
+  ('dist\\calc\\api-ms-win-crt-multibyte-l1-1-0.dll',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\api-ms-win-crt-multibyte-l1-1-0.dll',
+   'DATA'),
+  ('dist\\calc\\api-ms-win-crt-process-l1-1-0.dll',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\api-ms-win-crt-process-l1-1-0.dll',
+   'DATA'),
+  ('dist\\calc\\api-ms-win-crt-runtime-l1-1-0.dll',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\api-ms-win-crt-runtime-l1-1-0.dll',
+   'DATA'),
+  ('dist\\calc\\api-ms-win-crt-stdio-l1-1-0.dll',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\api-ms-win-crt-stdio-l1-1-0.dll',
+   'DATA'),
+  ('dist\\calc\\api-ms-win-crt-string-l1-1-0.dll',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\api-ms-win-crt-string-l1-1-0.dll',
+   'DATA'),
+  ('dist\\calc\\api-ms-win-crt-time-l1-1-0.dll',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\api-ms-win-crt-time-l1-1-0.dll',
+   'DATA'),
+  ('dist\\calc\\api-ms-win-crt-utility-l1-1-0.dll',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\api-ms-win-crt-utility-l1-1-0.dll',
+   'DATA'),
+  ('dist\\calc\\base_library.zip',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\base_library.zip',
+   'DATA'),
+  ('dist\\calc\\calc.exe',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\calc.exe',
+   'DATA'),
+  ('dist\\calc\\calc.exe.manifest',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\calc.exe.manifest',
+   'DATA'),
+  ('dist\\calc\\freetype.dll',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\freetype.dll',
+   'DATA'),
+  ('dist\\calc\\glew32.dll',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\glew32.dll',
+   'DATA'),
+  ('dist\\calc\\libcrypto-1_1-x64.dll',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\libcrypto-1_1-x64.dll',
+   'DATA'),
+  ('dist\\calc\\libffi-7.dll',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\libffi-7.dll',
+   'DATA'),
+  ('dist\\calc\\liblzma.dll',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\liblzma.dll',
+   'DATA'),
+  ('dist\\calc\\libpng16.dll',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\libpng16.dll',
+   'DATA'),
+  ('dist\\calc\\libssl-1_1-x64.dll',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\libssl-1_1-x64.dll',
+   'DATA'),
+  ('dist\\calc\\libwebp.dll',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\libwebp.dll',
+   'DATA'),
+  ('dist\\calc\\mfc140u.dll',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\mfc140u.dll',
+   'DATA'),
+  ('dist\\calc\\pyexpat.pyd',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\pyexpat.pyd',
+   'DATA'),
+  ('dist\\calc\\python39.dll',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\python39.dll',
+   'DATA'),
+  ('dist\\calc\\pythoncom39.dll',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\pythoncom39.dll',
+   'DATA'),
+  ('dist\\calc\\pywintypes39.dll',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\pywintypes39.dll',
+   'DATA'),
+  ('dist\\calc\\SDL2.dll',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\SDL2.dll',
+   'DATA'),
+  ('dist\\calc\\SDL2_image.dll',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\SDL2_image.dll',
+   'DATA'),
+  ('dist\\calc\\SDL2_mixer.dll',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\SDL2_mixer.dll',
+   'DATA'),
+  ('dist\\calc\\SDL2_ttf.dll',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\SDL2_ttf.dll',
+   'DATA'),
+  ('dist\\calc\\select.pyd',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\select.pyd',
+   'DATA'),
+  ('dist\\calc\\tiff.dll',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\tiff.dll',
+   'DATA'),
+  ('dist\\calc\\ucrtbase.dll',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\ucrtbase.dll',
+   'DATA'),
+  ('dist\\calc\\unicodedata.pyd',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\unicodedata.pyd',
+   'DATA'),
+  ('dist\\calc\\VCRUNTIME140.dll',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\VCRUNTIME140.dll',
+   'DATA'),
+  ('dist\\calc\\win32api.pyd',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\win32api.pyd',
+   'DATA'),
+  ('dist\\calc\\win32file.pyd',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\win32file.pyd',
+   'DATA'),
+  ('dist\\calc\\win32gui.pyd',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\win32gui.pyd',
+   'DATA'),
+  ('dist\\calc\\win32trace.pyd',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\win32trace.pyd',
+   'DATA'),
+  ('dist\\calc\\win32ui.pyd',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\win32ui.pyd',
+   'DATA'),
+  ('dist\\calc\\zlib.dll',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\zlib.dll',
+   'DATA'),
+  ('dist\\calc\\zstd.dll',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\zstd.dll',
+   'DATA'),
+  ('dist\\calc\\_asyncio.pyd',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\_asyncio.pyd',
+   'DATA'),
+  ('dist\\calc\\_bz2.pyd',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\_bz2.pyd',
+   'DATA'),
+  ('dist\\calc\\_ctypes.pyd',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\_ctypes.pyd',
+   'DATA'),
+  ('dist\\calc\\_decimal.pyd',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\_decimal.pyd',
+   'DATA'),
+  ('dist\\calc\\_elementtree.pyd',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\_elementtree.pyd',
+   'DATA'),
+  ('dist\\calc\\_hashlib.pyd',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\_hashlib.pyd',
+   'DATA'),
+  ('dist\\calc\\_lzma.pyd',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\_lzma.pyd',
+   'DATA'),
+  ('dist\\calc\\_multiprocessing.pyd',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\_multiprocessing.pyd',
+   'DATA'),
+  ('dist\\calc\\_overlapped.pyd',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\_overlapped.pyd',
+   'DATA'),
+  ('dist\\calc\\_queue.pyd',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\_queue.pyd',
+   'DATA'),
+  ('dist\\calc\\_socket.pyd',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\_socket.pyd',
+   'DATA'),
+  ('dist\\calc\\_ssl.pyd',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\_ssl.pyd',
+   'DATA'),
+  ('dist\\calc\\_uuid.pyd',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\_uuid.pyd',
+   'DATA'),
+  ('dist\\calc\\_win32sysloader.pyd',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\_win32sysloader.pyd',
+   'DATA'),
+  ('dist\\calc\\win32com\\shell\\shell.pyd',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\win32com\\shell\\shell.pyd',
+   'DATA'),
+  ('dist\\calc\\PIL\\_imaging.cp39-win_amd64.pyd',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\PIL\\_imaging.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\calc\\PIL\\_imagingft.cp39-win_amd64.pyd',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\PIL\\_imagingft.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\calc\\PIL\\_imagingtk.cp39-win_amd64.pyd',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\PIL\\_imagingtk.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\calc\\kivy_install\\modules\\console.py',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy_install\\modules\\console.py',
+   'DATA'),
+  ('dist\\calc\\kivy_install\\modules\\cursor.py',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy_install\\modules\\cursor.py',
+   'DATA'),
+  ('dist\\calc\\kivy_install\\modules\\inspector.py',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy_install\\modules\\inspector.py',
+   'DATA'),
+  ('dist\\calc\\kivy_install\\modules\\joycursor.py',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy_install\\modules\\joycursor.py',
+   'DATA'),
+  ('dist\\calc\\kivy_install\\modules\\keybinding.py',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy_install\\modules\\keybinding.py',
+   'DATA'),
+  ('dist\\calc\\kivy_install\\modules\\monitor.py',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy_install\\modules\\monitor.py',
+   'DATA'),
+  ('dist\\calc\\kivy_install\\modules\\recorder.py',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy_install\\modules\\recorder.py',
+   'DATA'),
+  ('dist\\calc\\kivy_install\\modules\\screen.py',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy_install\\modules\\screen.py',
+   'DATA'),
+  ('dist\\calc\\kivy_install\\modules\\showborder.py',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy_install\\modules\\showborder.py',
+   'DATA'),
+  ('dist\\calc\\kivy_install\\modules\\touchring.py',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy_install\\modules\\touchring.py',
+   'DATA'),
+  ('dist\\calc\\kivy_install\\modules\\webdebugger.py',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy_install\\modules\\webdebugger.py',
+   'DATA'),
+  ('dist\\calc\\kivy_install\\modules\\_webdebugger.py',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy_install\\modules\\_webdebugger.py',
+   'DATA'),
+  ('dist\\calc\\kivy_install\\modules\\__init__.py',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy_install\\modules\\__init__.py',
+   'DATA'),
+  ('dist\\calc\\kivy_install\\modules\\__pycache__\\console.cpython-39.pyc',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy_install\\modules\\__pycache__\\console.cpython-39.pyc',
+   'DATA'),
+  ('dist\\calc\\kivy_install\\modules\\__pycache__\\cursor.cpython-39.pyc',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy_install\\modules\\__pycache__\\cursor.cpython-39.pyc',
+   'DATA'),
+  ('dist\\calc\\kivy_install\\modules\\__pycache__\\inspector.cpython-39.pyc',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy_install\\modules\\__pycache__\\inspector.cpython-39.pyc',
+   'DATA'),
+  ('dist\\calc\\kivy_install\\modules\\__pycache__\\joycursor.cpython-39.pyc',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy_install\\modules\\__pycache__\\joycursor.cpython-39.pyc',
+   'DATA'),
+  ('dist\\calc\\kivy_install\\modules\\__pycache__\\keybinding.cpython-39.pyc',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy_install\\modules\\__pycache__\\keybinding.cpython-39.pyc',
+   'DATA'),
+  ('dist\\calc\\kivy_install\\modules\\__pycache__\\monitor.cpython-39.pyc',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy_install\\modules\\__pycache__\\monitor.cpython-39.pyc',
+   'DATA'),
+  ('dist\\calc\\kivy_install\\modules\\__pycache__\\recorder.cpython-39.pyc',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy_install\\modules\\__pycache__\\recorder.cpython-39.pyc',
+   'DATA'),
+  ('dist\\calc\\kivy_install\\modules\\__pycache__\\screen.cpython-39.pyc',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy_install\\modules\\__pycache__\\screen.cpython-39.pyc',
+   'DATA'),
+  ('dist\\calc\\kivy_install\\modules\\__pycache__\\showborder.cpython-39.pyc',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy_install\\modules\\__pycache__\\showborder.cpython-39.pyc',
+   'DATA'),
+  ('dist\\calc\\kivy_install\\modules\\__pycache__\\touchring.cpython-39.pyc',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy_install\\modules\\__pycache__\\touchring.cpython-39.pyc',
+   'DATA'),
+  ('dist\\calc\\kivy_install\\modules\\__pycache__\\webdebugger.cpython-39.pyc',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy_install\\modules\\__pycache__\\webdebugger.cpython-39.pyc',
+   'DATA'),
+  ('dist\\calc\\kivy_install\\modules\\__pycache__\\_webdebugger.cpython-39.pyc',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy_install\\modules\\__pycache__\\_webdebugger.cpython-39.pyc',
+   'DATA'),
+  ('dist\\calc\\kivy_install\\modules\\__pycache__\\__init__.cpython-39.pyc',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy_install\\modules\\__pycache__\\__init__.cpython-39.pyc',
+   'DATA'),
+  ('dist\\calc\\kivy_install\\data\\settings_kivy.json',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy_install\\data\\settings_kivy.json',
+   'DATA'),
+  ('dist\\calc\\kivy_install\\data\\style.kv',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy_install\\data\\style.kv',
+   'DATA'),
+  ('dist\\calc\\kivy_install\\data\\logo\\kivy-icon-128.png',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy_install\\data\\logo\\kivy-icon-128.png',
+   'DATA'),
+  ('dist\\calc\\kivy_install\\data\\logo\\kivy-icon-16.png',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy_install\\data\\logo\\kivy-icon-16.png',
+   'DATA'),
+  ('dist\\calc\\kivy_install\\data\\logo\\kivy-icon-24.png',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy_install\\data\\logo\\kivy-icon-24.png',
+   'DATA'),
+  ('dist\\calc\\kivy_install\\data\\logo\\kivy-icon-256.png',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy_install\\data\\logo\\kivy-icon-256.png',
+   'DATA'),
+  ('dist\\calc\\kivy_install\\data\\logo\\kivy-icon-32.png',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy_install\\data\\logo\\kivy-icon-32.png',
+   'DATA'),
+  ('dist\\calc\\kivy_install\\data\\logo\\kivy-icon-48.png',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy_install\\data\\logo\\kivy-icon-48.png',
+   'DATA'),
+  ('dist\\calc\\kivy_install\\data\\logo\\kivy-icon-512.png',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy_install\\data\\logo\\kivy-icon-512.png',
+   'DATA'),
+  ('dist\\calc\\kivy_install\\data\\logo\\kivy-icon-64.ico',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy_install\\data\\logo\\kivy-icon-64.ico',
+   'DATA'),
+  ('dist\\calc\\kivy_install\\data\\logo\\kivy-icon-64.png',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy_install\\data\\logo\\kivy-icon-64.png',
+   'DATA'),
+  ('dist\\calc\\kivy_install\\data\\keyboards\\azerty.json',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy_install\\data\\keyboards\\azerty.json',
+   'DATA'),
+  ('dist\\calc\\kivy_install\\data\\keyboards\\de.json',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy_install\\data\\keyboards\\de.json',
+   'DATA'),
+  ('dist\\calc\\kivy_install\\data\\keyboards\\de_CH.json',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy_install\\data\\keyboards\\de_CH.json',
+   'DATA'),
+  ('dist\\calc\\kivy_install\\data\\keyboards\\en_US.json',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy_install\\data\\keyboards\\en_US.json',
+   'DATA'),
+  ('dist\\calc\\kivy_install\\data\\keyboards\\fr_CH.json',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy_install\\data\\keyboards\\fr_CH.json',
+   'DATA'),
+  ('dist\\calc\\kivy_install\\data\\keyboards\\qwerty.json',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy_install\\data\\keyboards\\qwerty.json',
+   'DATA'),
+  ('dist\\calc\\kivy_install\\data\\keyboards\\qwertz.json',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy_install\\data\\keyboards\\qwertz.json',
+   'DATA'),
+  ('dist\\calc\\kivy_install\\data\\images\\background.jpg',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy_install\\data\\images\\background.jpg',
+   'DATA'),
+  ('dist\\calc\\kivy_install\\data\\images\\cursor.png',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy_install\\data\\images\\cursor.png',
+   'DATA'),
+  ('dist\\calc\\kivy_install\\data\\images\\defaultshape.png',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy_install\\data\\images\\defaultshape.png',
+   'DATA'),
+  ('dist\\calc\\kivy_install\\data\\images\\defaulttheme-0.png',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy_install\\data\\images\\defaulttheme-0.png',
+   'DATA'),
+  ('dist\\calc\\kivy_install\\data\\images\\defaulttheme.atlas',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy_install\\data\\images\\defaulttheme.atlas',
+   'DATA'),
+  ('dist\\calc\\kivy_install\\data\\images\\image-loading.gif',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy_install\\data\\images\\image-loading.gif',
+   'DATA'),
+  ('dist\\calc\\kivy_install\\data\\images\\image-loading.zip',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy_install\\data\\images\\image-loading.zip',
+   'DATA'),
+  ('dist\\calc\\kivy_install\\data\\images\\testpattern.png',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy_install\\data\\images\\testpattern.png',
+   'DATA'),
+  ('dist\\calc\\kivy_install\\data\\glsl\\default.fs',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy_install\\data\\glsl\\default.fs',
+   'DATA'),
+  ('dist\\calc\\kivy_install\\data\\glsl\\default.png',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy_install\\data\\glsl\\default.png',
+   'DATA'),
+  ('dist\\calc\\kivy_install\\data\\glsl\\default.vs',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy_install\\data\\glsl\\default.vs',
+   'DATA'),
+  ('dist\\calc\\kivy_install\\data\\glsl\\header.fs',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy_install\\data\\glsl\\header.fs',
+   'DATA'),
+  ('dist\\calc\\kivy_install\\data\\glsl\\header.vs',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy_install\\data\\glsl\\header.vs',
+   'DATA'),
+  ('dist\\calc\\kivy_install\\data\\fonts\\DejaVuSans.ttf',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy_install\\data\\fonts\\DejaVuSans.ttf',
+   'DATA'),
+  ('dist\\calc\\kivy_install\\data\\fonts\\Roboto-Bold.ttf',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy_install\\data\\fonts\\Roboto-Bold.ttf',
+   'DATA'),
+  ('dist\\calc\\kivy_install\\data\\fonts\\Roboto-BoldItalic.ttf',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy_install\\data\\fonts\\Roboto-BoldItalic.ttf',
+   'DATA'),
+  ('dist\\calc\\kivy_install\\data\\fonts\\Roboto-Italic.ttf',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy_install\\data\\fonts\\Roboto-Italic.ttf',
+   'DATA'),
+  ('dist\\calc\\kivy_install\\data\\fonts\\Roboto-Regular.ttf',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy_install\\data\\fonts\\Roboto-Regular.ttf',
+   'DATA'),
+  ('dist\\calc\\kivy_install\\data\\fonts\\RobotoMono-Regular.ttf',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy_install\\data\\fonts\\RobotoMono-Regular.ttf',
+   'DATA'),
+  ('dist\\calc\\kivy\\properties.cp39-win_amd64.pyd',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy\\properties.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\calc\\kivy\\weakproxy.cp39-win_amd64.pyd',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy\\weakproxy.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\calc\\kivy\\_clock.cp39-win_amd64.pyd',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy\\_clock.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\calc\\kivy\\_event.cp39-win_amd64.pyd',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy\\_event.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\calc\\kivy\\graphics\\buffer.cp39-win_amd64.pyd',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy\\graphics\\buffer.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\calc\\kivy\\graphics\\cgl.cp39-win_amd64.pyd',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy\\graphics\\cgl.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\calc\\kivy\\graphics\\compiler.cp39-win_amd64.pyd',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy\\graphics\\compiler.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\calc\\kivy\\graphics\\context.cp39-win_amd64.pyd',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy\\graphics\\context.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\calc\\kivy\\graphics\\context_instructions.cp39-win_amd64.pyd',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy\\graphics\\context_instructions.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\calc\\kivy\\graphics\\fbo.cp39-win_amd64.pyd',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy\\graphics\\fbo.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\calc\\kivy\\graphics\\gl_instructions.cp39-win_amd64.pyd',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy\\graphics\\gl_instructions.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\calc\\kivy\\graphics\\instructions.cp39-win_amd64.pyd',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy\\graphics\\instructions.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\calc\\kivy\\graphics\\opengl.cp39-win_amd64.pyd',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy\\graphics\\opengl.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\calc\\kivy\\graphics\\opengl_utils.cp39-win_amd64.pyd',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy\\graphics\\opengl_utils.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\calc\\kivy\\graphics\\scissor_instructions.cp39-win_amd64.pyd',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy\\graphics\\scissor_instructions.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\calc\\kivy\\graphics\\shader.cp39-win_amd64.pyd',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy\\graphics\\shader.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\calc\\kivy\\graphics\\stencil_instructions.cp39-win_amd64.pyd',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy\\graphics\\stencil_instructions.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\calc\\kivy\\graphics\\svg.cp39-win_amd64.pyd',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy\\graphics\\svg.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\calc\\kivy\\graphics\\tesselator.cp39-win_amd64.pyd',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy\\graphics\\tesselator.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\calc\\kivy\\graphics\\texture.cp39-win_amd64.pyd',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy\\graphics\\texture.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\calc\\kivy\\graphics\\transformation.cp39-win_amd64.pyd',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy\\graphics\\transformation.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\calc\\kivy\\graphics\\vbo.cp39-win_amd64.pyd',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy\\graphics\\vbo.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\calc\\kivy\\graphics\\vertex.cp39-win_amd64.pyd',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy\\graphics\\vertex.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\calc\\kivy\\graphics\\vertex_instructions.cp39-win_amd64.pyd',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy\\graphics\\vertex_instructions.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\calc\\kivy\\graphics\\cgl_backend\\cgl_debug.cp39-win_amd64.pyd',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy\\graphics\\cgl_backend\\cgl_debug.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\calc\\kivy\\graphics\\cgl_backend\\cgl_gl.cp39-win_amd64.pyd',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy\\graphics\\cgl_backend\\cgl_gl.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\calc\\kivy\\graphics\\cgl_backend\\cgl_glew.cp39-win_amd64.pyd',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy\\graphics\\cgl_backend\\cgl_glew.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\calc\\kivy\\graphics\\cgl_backend\\cgl_mock.cp39-win_amd64.pyd',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy\\graphics\\cgl_backend\\cgl_mock.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\calc\\kivy\\graphics\\cgl_backend\\cgl_sdl2.cp39-win_amd64.pyd',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy\\graphics\\cgl_backend\\cgl_sdl2.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\calc\\kivy\\core\\window\\window_info.cp39-win_amd64.pyd',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy\\core\\window\\window_info.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\calc\\kivy\\core\\window\\_window_sdl2.cp39-win_amd64.pyd',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy\\core\\window\\_window_sdl2.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\calc\\kivy\\core\\text\\text_layout.cp39-win_amd64.pyd',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy\\core\\text\\text_layout.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\calc\\kivy\\core\\text\\_text_sdl2.cp39-win_amd64.pyd',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy\\core\\text\\_text_sdl2.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\calc\\kivy\\core\\image\\_img_sdl2.cp39-win_amd64.pyd',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy\\core\\image\\_img_sdl2.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\calc\\kivy\\core\\clipboard\\_clipboard_sdl2.cp39-win_amd64.pyd',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy\\core\\clipboard\\_clipboard_sdl2.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\calc\\kivy\\core\\audio\\audio_sdl2.cp39-win_amd64.pyd',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\kivy\\core\\audio\\audio_sdl2.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\calc\\Include\\pyconfig.h',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\Include\\pyconfig.h',
+   'DATA'),
+  ('dist\\calc\\docutils\\writers\\s5_html\\themes\\README.txt',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\writers\\s5_html\\themes\\README.txt',
+   'DATA'),
+  ('dist\\calc\\docutils\\writers\\s5_html\\themes\\small-white\\framing.css',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\writers\\s5_html\\themes\\small-white\\framing.css',
+   'DATA'),
+  ('dist\\calc\\docutils\\writers\\s5_html\\themes\\small-white\\pretty.css',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\writers\\s5_html\\themes\\small-white\\pretty.css',
+   'DATA'),
+  ('dist\\calc\\docutils\\writers\\s5_html\\themes\\small-black\\pretty.css',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\writers\\s5_html\\themes\\small-black\\pretty.css',
+   'DATA'),
+  ('dist\\calc\\docutils\\writers\\s5_html\\themes\\small-black\\__base__',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\writers\\s5_html\\themes\\small-black\\__base__',
+   'DATA'),
+  ('dist\\calc\\docutils\\writers\\s5_html\\themes\\medium-white\\framing.css',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\writers\\s5_html\\themes\\medium-white\\framing.css',
+   'DATA'),
+  ('dist\\calc\\docutils\\writers\\s5_html\\themes\\medium-white\\pretty.css',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\writers\\s5_html\\themes\\medium-white\\pretty.css',
+   'DATA'),
+  ('dist\\calc\\docutils\\writers\\s5_html\\themes\\medium-black\\pretty.css',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\writers\\s5_html\\themes\\medium-black\\pretty.css',
+   'DATA'),
+  ('dist\\calc\\docutils\\writers\\s5_html\\themes\\medium-black\\__base__',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\writers\\s5_html\\themes\\medium-black\\__base__',
+   'DATA'),
+  ('dist\\calc\\docutils\\writers\\s5_html\\themes\\default\\blank.gif',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\writers\\s5_html\\themes\\default\\blank.gif',
+   'DATA'),
+  ('dist\\calc\\docutils\\writers\\s5_html\\themes\\default\\framing.css',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\writers\\s5_html\\themes\\default\\framing.css',
+   'DATA'),
+  ('dist\\calc\\docutils\\writers\\s5_html\\themes\\default\\iepngfix.htc',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\writers\\s5_html\\themes\\default\\iepngfix.htc',
+   'DATA'),
+  ('dist\\calc\\docutils\\writers\\s5_html\\themes\\default\\opera.css',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\writers\\s5_html\\themes\\default\\opera.css',
+   'DATA'),
+  ('dist\\calc\\docutils\\writers\\s5_html\\themes\\default\\outline.css',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\writers\\s5_html\\themes\\default\\outline.css',
+   'DATA'),
+  ('dist\\calc\\docutils\\writers\\s5_html\\themes\\default\\pretty.css',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\writers\\s5_html\\themes\\default\\pretty.css',
+   'DATA'),
+  ('dist\\calc\\docutils\\writers\\s5_html\\themes\\default\\print.css',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\writers\\s5_html\\themes\\default\\print.css',
+   'DATA'),
+  ('dist\\calc\\docutils\\writers\\s5_html\\themes\\default\\s5-core.css',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\writers\\s5_html\\themes\\default\\s5-core.css',
+   'DATA'),
+  ('dist\\calc\\docutils\\writers\\s5_html\\themes\\default\\slides.css',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\writers\\s5_html\\themes\\default\\slides.css',
+   'DATA'),
+  ('dist\\calc\\docutils\\writers\\s5_html\\themes\\default\\slides.js',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\writers\\s5_html\\themes\\default\\slides.js',
+   'DATA'),
+  ('dist\\calc\\docutils\\writers\\s5_html\\themes\\big-white\\framing.css',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\writers\\s5_html\\themes\\big-white\\framing.css',
+   'DATA'),
+  ('dist\\calc\\docutils\\writers\\s5_html\\themes\\big-white\\pretty.css',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\writers\\s5_html\\themes\\big-white\\pretty.css',
+   'DATA'),
+  ('dist\\calc\\docutils\\writers\\s5_html\\themes\\big-black\\framing.css',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\writers\\s5_html\\themes\\big-black\\framing.css',
+   'DATA'),
+  ('dist\\calc\\docutils\\writers\\s5_html\\themes\\big-black\\pretty.css',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\writers\\s5_html\\themes\\big-black\\pretty.css',
+   'DATA'),
+  ('dist\\calc\\docutils\\writers\\s5_html\\themes\\big-black\\__base__',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\writers\\s5_html\\themes\\big-black\\__base__',
+   'DATA'),
+  ('dist\\calc\\docutils\\writers\\pep_html\\pep.css',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\writers\\pep_html\\pep.css',
+   'DATA'),
+  ('dist\\calc\\docutils\\writers\\pep_html\\template.txt',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\writers\\pep_html\\template.txt',
+   'DATA'),
+  ('dist\\calc\\docutils\\writers\\odf_odt\\styles.odt',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\writers\\odf_odt\\styles.odt',
+   'DATA'),
+  ('dist\\calc\\docutils\\writers\\latex2e\\default.tex',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\writers\\latex2e\\default.tex',
+   'DATA'),
+  ('dist\\calc\\docutils\\writers\\latex2e\\titlepage.tex',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\writers\\latex2e\\titlepage.tex',
+   'DATA'),
+  ('dist\\calc\\docutils\\writers\\latex2e\\xelatex.tex',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\writers\\latex2e\\xelatex.tex',
+   'DATA'),
+  ('dist\\calc\\docutils\\writers\\html5_polyglot\\math.css',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\writers\\html5_polyglot\\math.css',
+   'DATA'),
+  ('dist\\calc\\docutils\\writers\\html5_polyglot\\minimal.css',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\writers\\html5_polyglot\\minimal.css',
+   'DATA'),
+  ('dist\\calc\\docutils\\writers\\html5_polyglot\\plain.css',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\writers\\html5_polyglot\\plain.css',
+   'DATA'),
+  ('dist\\calc\\docutils\\writers\\html5_polyglot\\template.txt',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\writers\\html5_polyglot\\template.txt',
+   'DATA'),
+  ('dist\\calc\\docutils\\writers\\html4css1\\html4css1.css',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\writers\\html4css1\\html4css1.css',
+   'DATA'),
+  ('dist\\calc\\docutils\\writers\\html4css1\\template.txt',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\writers\\html4css1\\template.txt',
+   'DATA'),
+  ('dist\\calc\\docutils\\parsers\\rst\\include\\isoamsa.txt',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\parsers\\rst\\include\\isoamsa.txt',
+   'DATA'),
+  ('dist\\calc\\docutils\\parsers\\rst\\include\\isoamsb.txt',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\parsers\\rst\\include\\isoamsb.txt',
+   'DATA'),
+  ('dist\\calc\\docutils\\parsers\\rst\\include\\isoamsc.txt',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\parsers\\rst\\include\\isoamsc.txt',
+   'DATA'),
+  ('dist\\calc\\docutils\\parsers\\rst\\include\\isoamsn.txt',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\parsers\\rst\\include\\isoamsn.txt',
+   'DATA'),
+  ('dist\\calc\\docutils\\parsers\\rst\\include\\isoamso.txt',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\parsers\\rst\\include\\isoamso.txt',
+   'DATA'),
+  ('dist\\calc\\docutils\\parsers\\rst\\include\\isoamsr.txt',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\parsers\\rst\\include\\isoamsr.txt',
+   'DATA'),
+  ('dist\\calc\\docutils\\parsers\\rst\\include\\isobox.txt',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\parsers\\rst\\include\\isobox.txt',
+   'DATA'),
+  ('dist\\calc\\docutils\\parsers\\rst\\include\\isocyr1.txt',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\parsers\\rst\\include\\isocyr1.txt',
+   'DATA'),
+  ('dist\\calc\\docutils\\parsers\\rst\\include\\isocyr2.txt',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\parsers\\rst\\include\\isocyr2.txt',
+   'DATA'),
+  ('dist\\calc\\docutils\\parsers\\rst\\include\\isodia.txt',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\parsers\\rst\\include\\isodia.txt',
+   'DATA'),
+  ('dist\\calc\\docutils\\parsers\\rst\\include\\isogrk1.txt',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\parsers\\rst\\include\\isogrk1.txt',
+   'DATA'),
+  ('dist\\calc\\docutils\\parsers\\rst\\include\\isogrk2.txt',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\parsers\\rst\\include\\isogrk2.txt',
+   'DATA'),
+  ('dist\\calc\\docutils\\parsers\\rst\\include\\isogrk3.txt',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\parsers\\rst\\include\\isogrk3.txt',
+   'DATA'),
+  ('dist\\calc\\docutils\\parsers\\rst\\include\\isogrk4-wide.txt',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\parsers\\rst\\include\\isogrk4-wide.txt',
+   'DATA'),
+  ('dist\\calc\\docutils\\parsers\\rst\\include\\isogrk4.txt',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\parsers\\rst\\include\\isogrk4.txt',
+   'DATA'),
+  ('dist\\calc\\docutils\\parsers\\rst\\include\\isolat1.txt',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\parsers\\rst\\include\\isolat1.txt',
+   'DATA'),
+  ('dist\\calc\\docutils\\parsers\\rst\\include\\isolat2.txt',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\parsers\\rst\\include\\isolat2.txt',
+   'DATA'),
+  ('dist\\calc\\docutils\\parsers\\rst\\include\\isomfrk-wide.txt',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\parsers\\rst\\include\\isomfrk-wide.txt',
+   'DATA'),
+  ('dist\\calc\\docutils\\parsers\\rst\\include\\isomfrk.txt',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\parsers\\rst\\include\\isomfrk.txt',
+   'DATA'),
+  ('dist\\calc\\docutils\\parsers\\rst\\include\\isomopf-wide.txt',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\parsers\\rst\\include\\isomopf-wide.txt',
+   'DATA'),
+  ('dist\\calc\\docutils\\parsers\\rst\\include\\isomopf.txt',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\parsers\\rst\\include\\isomopf.txt',
+   'DATA'),
+  ('dist\\calc\\docutils\\parsers\\rst\\include\\isomscr-wide.txt',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\parsers\\rst\\include\\isomscr-wide.txt',
+   'DATA'),
+  ('dist\\calc\\docutils\\parsers\\rst\\include\\isomscr.txt',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\parsers\\rst\\include\\isomscr.txt',
+   'DATA'),
+  ('dist\\calc\\docutils\\parsers\\rst\\include\\isonum.txt',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\parsers\\rst\\include\\isonum.txt',
+   'DATA'),
+  ('dist\\calc\\docutils\\parsers\\rst\\include\\isopub.txt',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\parsers\\rst\\include\\isopub.txt',
+   'DATA'),
+  ('dist\\calc\\docutils\\parsers\\rst\\include\\isotech.txt',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\parsers\\rst\\include\\isotech.txt',
+   'DATA'),
+  ('dist\\calc\\docutils\\parsers\\rst\\include\\mmlalias.txt',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\parsers\\rst\\include\\mmlalias.txt',
+   'DATA'),
+  ('dist\\calc\\docutils\\parsers\\rst\\include\\mmlextra-wide.txt',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\parsers\\rst\\include\\mmlextra-wide.txt',
+   'DATA'),
+  ('dist\\calc\\docutils\\parsers\\rst\\include\\mmlextra.txt',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\parsers\\rst\\include\\mmlextra.txt',
+   'DATA'),
+  ('dist\\calc\\docutils\\parsers\\rst\\include\\README.txt',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\parsers\\rst\\include\\README.txt',
+   'DATA'),
+  ('dist\\calc\\docutils\\parsers\\rst\\include\\s5defs.txt',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\parsers\\rst\\include\\s5defs.txt',
+   'DATA'),
+  ('dist\\calc\\docutils\\parsers\\rst\\include\\xhtml1-lat1.txt',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\parsers\\rst\\include\\xhtml1-lat1.txt',
+   'DATA'),
+  ('dist\\calc\\docutils\\parsers\\rst\\include\\xhtml1-special.txt',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\parsers\\rst\\include\\xhtml1-special.txt',
+   'DATA'),
+  ('dist\\calc\\docutils\\parsers\\rst\\include\\xhtml1-symbol.txt',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\docutils\\parsers\\rst\\include\\xhtml1-symbol.txt',
+   'DATA'),
+  ('dist\\calc\\certifi\\cacert.pem',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\dist\\calc\\certifi\\cacert.pem',
+   'DATA'),
+  ('build\\calc\\Analysis-00.toc',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\build\\calc\\Analysis-00.toc',
+   'DATA'),
+  ('build\\calc\\base_library.zip',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\build\\calc\\base_library.zip',
+   'DATA'),
+  ('build\\calc\\calc.exe',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\build\\calc\\calc.exe',
+   'DATA'),
+  ('build\\calc\\calc.exe.manifest',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\build\\calc\\calc.exe.manifest',
+   'DATA'),
+  ('build\\calc\\COLLECT-00.toc',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\build\\calc\\COLLECT-00.toc',
+   'DATA'),
+  ('build\\calc\\EXE-00.toc',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\build\\calc\\EXE-00.toc',
+   'DATA'),
+  ('build\\calc\\PKG-00.pkg',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\build\\calc\\PKG-00.pkg',
+   'DATA'),
+  ('build\\calc\\PKG-00.toc',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\build\\calc\\PKG-00.toc',
+   'DATA'),
+  ('build\\calc\\PYZ-00.pyz',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\build\\calc\\PYZ-00.pyz',
+   'DATA'),
+  ('build\\calc\\PYZ-00.toc',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\build\\calc\\PYZ-00.toc',
+   'DATA'),
+  ('build\\calc\\Tree-00.toc',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\build\\calc\\Tree-00.toc',
+   'DATA'),
+  ('build\\calc\\Tree-01.toc',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\build\\calc\\Tree-01.toc',
+   'DATA'),
+  ('build\\calc\\Tree-02.toc',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\build\\calc\\Tree-02.toc',
+   'DATA'),
+  ('build\\calc\\warn-calc.txt',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\build\\calc\\warn-calc.txt',
+   'DATA'),
+  ('build\\calc\\xref-calc.html',
+   'C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalone Python EXE '
+   'Executable\\build\\calc\\xref-calc.html',
+   'DATA')])
