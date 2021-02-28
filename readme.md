@@ -176,13 +176,7 @@ conda env remove n entornos
 
 _Link de Descarga_
 
-
-
-📦 [Install .EXE ](https://raw.githubusercontent.com/BrianMarquez3/C-Plus-Plus-Course/master/Instalador/GraphicBasicCalculadora.rar) Graphic Basic Calculator.<br>-->
-
-
 📦 [Install Calculator .EXE ](https://raw.githubusercontent.com/BrianMarquez3/Python-Kivy/master/download/calculator.rar) Graphic Basic Calculator.<br>
-
 
 | Carpeta                    | Link |     Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
