@@ -180,7 +180,7 @@ conda env remove n entornos
 
 | Carpeta                    | Link |     Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Standalone Python EXE Executable](https://github.com/BrianMarquez3/Python-Kivy/tree/main/019%20Standalone%20Python%20EXE%20Executable)          |      ✔️     | [⬅️ Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [Standalone Python EXE Executable](ttps://github.com/BrianMarquez3/Python-Kivy/tree/main/019_StandalonePythoEXE_Executable)          |      ✔️     | [⬅️ Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 ---
 ## Paypal
