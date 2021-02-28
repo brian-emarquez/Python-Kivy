@@ -72,3 +72,6 @@ coll = COLLECT(exe, Tree('C:\\Users\\brian\\Documents\\Python-Kivy\\019 Standalo
 pyinstaller nombreArchivo.spec  -y
 ```
 
+_Link de Descarga_
+
+📦 [Install Calculator .EXE ](https://raw.githubusercontent.com/BrianMarquez3/Python-Kivy/master/download/calculator.rar) Graphic Basic Calculator.<br>
