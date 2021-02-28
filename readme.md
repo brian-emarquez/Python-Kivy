@@ -12,7 +12,7 @@
   <a href="https://github.com/BrianMarquez3/Python-Kivy/network">
     <img src="https://img.shields.io/github/forks/BrianMarquez3/Python-Kivy.svg?style=flat" alt="Forks">
   </a>
-    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/Python-Kivy?color=gren&label=Version&logo=java">
+    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/Python-Kivy?color=gren&label=Version&logo=python">
   </a>
   
   </a>
