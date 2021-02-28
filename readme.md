@@ -54,8 +54,7 @@
 | 015  | :heavy_check_mark: | [Calculator Addition Function](https://github.com/BrianMarquez3/Python-Kivy/tree/main/015%20Calculator%20Addition%20Function) | :hourglass:     | [ ⬅️ Atras](https://github.com/BrianMarquez3) | - |
 | 016  | :heavy_check_mark: | [Secondary Calculator Button Functions](https://github.com/BrianMarquez3/Python-Kivy/tree/main/016%20Secondary%20Calculator%20Button%20Functions) | :hourglass:     | [ ⬅️ Atras](https://github.com/BrianMarquez3) | - |
 | 017  | :heavy_check_mark: | [Fix Our Decimal Calculator Problem](https://github.com/BrianMarquez3/Python-Kivy/tree/main/017%20Fix%20Our%20Decimal%20Calculator%20Problem) | :hourglass:     | [ ⬅️ Atras](https://github.com/BrianMarquez3) | - |
-| 018  | :heavy_check_mark: | [Math Calculator Buttons With eval](https://github.com/BrianMarquez3/Python-Kivy/tree/main/018%20Math%20Calculator%20Buttons%20With%20eval()) | :hourglass:     | [ ⬅️ Atras](https://github.com/BrianMarquez3) | (#Math-Calculator-Buttons-With-eval) |
-
+| 018  | :heavy_check_mark: | [Math Calculator Buttons With eval](https://github.com/BrianMarquez3/Python-Kivy/tree/main/018%20Math%20Calculator%20Buttons%20With%20eval()) | :hourglass:     | [ ⬅️ Atras](https://github.com/BrianMarquez3) | [Math Calculator Buttons With eval](#Math-Calculator-Buttons-With-eval) |
 
 ## Que es Kiby
 
@@ -151,7 +150,7 @@ conda env remove n entornos
 
 ## Math Calculator Buttons With eval
 
-```kivy
+```python
  # test for error firts
         if "Error" in prior:
             prior = ''
