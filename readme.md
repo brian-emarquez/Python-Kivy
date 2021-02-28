@@ -175,7 +175,7 @@ conda env remove n entornos
 ## Standalone Python EXE Executable
 
 
-📦 [Install Calculator .EXE ](https://raw.githubusercontent.com/BrianMarquez3/Python-Kivy/019_StandalonePytho EXE_Executable/master/download/calculator.rar) Graphic Basic Calculator.<br>
+📦 [Install Calculator .EXE ](https://raw.githubusercontent.com/BrianMarquez3/Python-Kivy/019_StandalonePythoEXE_Executable/master/download/calculator.rar) Graphic Basic Calculator.<br>
 
 
 | Carpeta                    | Link |     Home   |  Code | Version | Estado |
