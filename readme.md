@@ -165,6 +165,11 @@ conda env remove n entornos
 
 ![kivy](./images/cal.png)
 
+| Carpeta                    | Link |     Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Math Calculator Buttons With eval](https://github.com/BrianMarquez3/Python-Kivy/tree/main/018%20Math%20Calculator%20Buttons%20With%20eval())          |      ✔️     | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
+
 ## Paypal
 
 🩸 Hacer una donación [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y) 🍵
