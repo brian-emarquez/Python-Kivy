@@ -3,8 +3,8 @@
 
 <p align="center">
   
-  <a href="https://github.com/BrianMarquez3/Python-Kivy/tags">
-    <img src="https://img.shields.io/github/tag/BrianMarquez3/Python-Kivy.svg?label=version&style=flat" alt="Version">
+   </a>
+    <img src="https://img.shields.io/github/languages/top/BrianMarquez3/Python-Kivy?color=red">
   </a>
   <a href="https://github.com/BrianMarquez3/Python-Kivy/stargazers">
     <img src="https://img.shields.io/github/stars/BrianMarquez3/Python-Kivy.svg?style=flat" alt="Stars">
@@ -12,11 +12,25 @@
   <a href="https://github.com/BrianMarquez3/Python-Kivy/network">
     <img src="https://img.shields.io/github/forks/BrianMarquez3/Python-Kivy.svg?style=flat" alt="Forks">
   </a>
-    <a href="https://github.com/BrianMarquez3/Python-Kivy/network">
-    <img src="https://img.shields.io/badge/Plataform-Windows-blue">
+    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/Python-Kivy?color=gren&label=Version&logo=java">
   </a>
-</p>
   
+  </a>
+    <img src="https://img.shields.io/github/languages/code-size/BrianMarquez3/Python-Kivy">
+  </a>
+  
+  </a>
+    <img src="https://img.shields.io/github/downloads/BrianMarquez3/Python-Kivy/total?color=violet">
+  </a>
+  
+   </a>
+   <a href="https://github.com/BrianMarquez3/Python-Kivy/network">
+    <img src="https://img.shields.io/badge/Plataform-Windows-blue">
+  </a><br>
+ 
+  <img src="https://img.shields.io/github/last-commit/BrianMarquez3/Python-Kivy?color=black&style=for-the-badge">
+  <img src="https://img.shields.io/github/languages/count/BrianMarquez3/Python-Kivy?style=for-the-badge">
+
 ![kivy](./images/Kivy.png)
 
 ## Tabla de Contenidos
