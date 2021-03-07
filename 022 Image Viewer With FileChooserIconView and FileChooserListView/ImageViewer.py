@@ -14,15 +14,20 @@ from kivy.lang import Builder
 from kivy.core.window import Window
 
 # Designate our .kv design file
-Builder.load_file('round_buttons.kv')
+Builder.load_file('menu.kv')
 
 class MyLayout(Widget):
-    pass
 
+    def selected(self, filename):
+        try:
+            self.ids.my_image.source = filename[0]
+            print(filename[0])
+            
+        except:
+            pass
 
 class AwersomeApp(App): #my.kv
     def build(self):
-        Window.clearcolor = (1,1,1,1)
         return MyLayout()
         
 
