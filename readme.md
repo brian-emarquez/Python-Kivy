@@ -56,6 +56,10 @@
 | 017  | :heavy_check_mark: | [Fix Our Decimal Calculator Problem](https://github.com/BrianMarquez3/Python-Kivy/tree/main/017%20Fix%20Our%20Decimal%20Calculator%20Problem) | :hourglass:     | [ ⬅️ Atras](https://github.com/BrianMarquez3) | - |
 | 018  | :heavy_check_mark: | [Math Calculator Buttons With eval](https://github.com/BrianMarquez3/Python-Kivy/tree/main/018%20Math%20Calculator%20Buttons%20With%20eval()) | :hourglass:     | [ ⬅️ Atras](https://github.com/BrianMarquez3) | [Standalone Python EXE Executable](#Math-Calculator-Buttons-With-eval) |
 | 019  | :heavy_check_mark: | [Standalone Pytho EXE Executable](https://github.com/BrianMarquez3/Python-Kivy/tree/main/019_StandalonePythoEXE_Executable) | :hourglass:     | [ ⬅️ Atras](https://github.com/BrianMarquez3) | [Standalone Python EXE Executable](#Standalone-Python-EXE-Executable) |
+| 020  | :heavy_check_mark: | [SKivy 2.0 Released! How To Install](https://github.com/BrianMarquez3/Python-Kivy/tree/main/020%20Kivy%202.0%20Released!%20How%20To%20Install) | :hourglass:     | [ ⬅️ Atras](https://github.com/BrianMarquez3) | -  |
+| 021 | :heavy_check_mark: | [How To Create Rounded Buttons](https://github.com/BrianMarquez3/Python-Kivy/tree/main/021%20How%20To%20Create%20Rounded%20Buttons) | :hourglass:     | [ ⬅️ Atras](https://github.com/BrianMarquez3) | -  |
+| 022 | :heavy_check_mark: | [Image Viewer With FileChooserIconView and FileChooserListView](https://github.com/BrianMarquez3/Python-Kivy/tree/main/022%20Image%20Viewer%20With%20FileChooserIconView%20and%20FileChooserListView) | :hourglass:     | [ ⬅️ Atras](https://github.com/BrianMarquez3) | -  |
+
 
 ## Que es Kiby
 
@@ -65,6 +69,7 @@ Los gráficos se procesan a través de OpenGL ES 2 en lugar de a través de widg
 
 Desarrollar interfaces en Kivy opcionalmente implica el uso de kvlang, un pequeño lenguaje que admite expresiones similares a python e interoperabilidad de python. El uso de kvlang puede simplificar drásticamente el desarrollo de la interfaz de usuario en comparación con el uso exclusivo de Python. [RIPTUTORIAL](https://riptutorial.com/es/kivy).<br>
 
+---
 ## Anaconda
 
 _Anaconda Navigator_
@@ -102,6 +107,26 @@ conda activate prueba
 conda install kivy -c conda-forge
 ```
 
+_Documentacion PIP_ 
+
+```
+python -m pip install --upgrade pip setuptools virtualenv
+```
+- Create virtual environment
+
+```
+python -m virtualenv kivy_venv
+```
+- Activate
+
+```
+kivy_venv\Scripts\activate`
+```
+
+```
+source kivy_venv/Scripts/activate
+```
+---
 ## Ejecutar Primera Ventana
 
 - Conda Activate
