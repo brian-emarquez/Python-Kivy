@@ -1,5 +1,5 @@
 
-<h2 align="center">Python Kivy | Open source Python framework</h2>
+<h2 align="center"> Kivy | Open source Python framework</h2>
 
 <p align="center">
   
