@@ -1,5 +1,5 @@
 
-<h2 align="center">Python Kivy - kivy &nbsp;:computer:&nbsp;</h2>
+<h2 align="center">Python Kivy &nbsp;:computer:&nbsp;</h2>
 
 <p align="center">
   
