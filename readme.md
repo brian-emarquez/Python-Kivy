@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/github/last-commit/BrianMarquez3/Python-Kivy?color=black&style=for-the-badge">
   <img src="https://img.shields.io/github/languages/count/BrianMarquez3/Python-Kivy?style=for-the-badge">
 
-![kivy](./images/Kivy.png)
+![kivy](./images/kivyy.gif)
 
 ## Tabla de Contenidos
 
