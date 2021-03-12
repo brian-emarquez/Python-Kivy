@@ -18,14 +18,26 @@ from kivy.core.spelling import Spelling
 Builder.load_file('spell.kv')
 
 class MyLayout(Widget):
+    def press (self):
+        # Create instalce of spelling
+        s = Spelling()
 
-    def selected(self, filename):
-        try:
-            self.ids.my_image.source = filename[0]
-            print(filename[0])
-            
-        except:
-            pass
+        # Select the lenguje
+        s.select_language('en_US')
+
+        # See the Languaje options
+        #print(s.list_languages())
+
+        # Grab the word
+        word = self.ids.word_input.text
+
+        options = s.suggest(word)
+        x = ''
+        for item in options:
+            x = f'{x} {item}'
+        # update our label
+        self.ids.word_label.text = f'{x}'
+
 
 class AwersomeApp(App): #my.kv
     def build(self):
