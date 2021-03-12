@@ -1,5 +1,5 @@
 #############################################
-# Image Viewer With FileChooserIconView and FileChooserListView
+# Spell Checker
 #############################################
 
 import kivy
@@ -12,9 +12,10 @@ from kivy.uix.widget import Widget
 from kivy.properties import ObjectProperty
 from kivy.lang import Builder
 from kivy.core.window import Window
+from kivy.core.spelling import Spelling
 
 # Designate our .kv design file
-Builder.load_file('menu.kv')
+Builder.load_file('spell.kv')
 
 class MyLayout(Widget):
 
