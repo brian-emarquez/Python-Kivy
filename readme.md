@@ -85,7 +85,7 @@ Anaconda es un distribución libre y abierta1​ de los lenguajes Python y R, ut
 
 [Installation on Windows](https://kivy.org/doc/stable/installation/installation-windows.html).<br>
 
-📖 Documentacion CONDA
+📚 Documentacion CONDA
 
 [Descargar ANACONDA](https://kivy.org/#download)<br>
 
@@ -112,7 +112,7 @@ conda install kivy -c conda-forge
 
 ## PIP
 
-📖 Documentacion PIP 
+📚 Documentacion PIP 
 
 Installar Kivy 
 
@@ -156,30 +156,37 @@ python
 App().run()
 ```
 _Ventana de Ejecucion_
+
 ![ANACONDA](./images/ventana.png)
+
 ## Comandos
 
 _Verifica la versión de CONDA_
+
 ```
 conda --version
 ````
 
 _Listado de Modulos instalados CONDA_
+
 ```
 CONDA list
 ````
 
 _Borrar Modulos Instalados_
+
 ```
 CONDA remove nombreModulo
 ````
 
 _ver los Entornos env_
+
 ```
 conda env list
 ````
 
 _Borrar entornos env_
+
 ```
 conda env remove n entornos
 ````
