@@ -56,9 +56,10 @@
 | 017  | :heavy_check_mark: | [Fix Our Decimal Calculator Problem](https://github.com/BrianMarquez3/Python-Kivy/tree/main/017%20Fix%20Our%20Decimal%20Calculator%20Problem) | :hourglass:     | [ ⬅️ Atras](https://github.com/BrianMarquez3) | - |
 | 018  | :heavy_check_mark: | [Math Calculator Buttons With eval](https://github.com/BrianMarquez3/Python-Kivy/tree/main/018%20Math%20Calculator%20Buttons%20With%20eval()) | :hourglass:     | [ ⬅️ Atras](https://github.com/BrianMarquez3) | [Standalone Python EXE Executable](#Math-Calculator-Buttons-With-eval) |
 | 019  | :heavy_check_mark: | [Standalone Pytho EXE Executable](https://github.com/BrianMarquez3/Python-Kivy/tree/main/019_StandalonePythoEXE_Executable) | :hourglass:     | [ ⬅️ Atras](https://github.com/BrianMarquez3) | [Standalone Python EXE Executable](#Standalone-Python-EXE-Executable) |
-| 020  | :heavy_check_mark: | [SKivy 2.0 Released! How To Install](https://github.com/BrianMarquez3/Python-Kivy/tree/main/020%20Kivy%202.0%20Released!%20How%20To%20Install) | :hourglass:     | [ ⬅️ Atras](https://github.com/BrianMarquez3) | -  |
-| 021 | :heavy_check_mark: | [How To Create Rounded Buttons](https://github.com/BrianMarquez3/Python-Kivy/tree/main/021%20How%20To%20Create%20Rounded%20Buttons) | :hourglass:     | [ ⬅️ Atras](https://github.com/BrianMarquez3) | -  |
-| 022 | :heavy_check_mark: | [Image Viewer With FileChooserIconView and FileChooserListView](https://github.com/BrianMarquez3/Python-Kivy/tree/main/022%20Image%20Viewer%20With%20FileChooserIconView%20and%20FileChooserListView) | :hourglass:     | [ ⬅️ Atras](https://github.com/BrianMarquez3) | -  |
+| 020  | :heavy_check_mark: | [Kivy 2 0 Released! How To Install](https://github.com/BrianMarquez3/Python-Kivy/tree/main/020%20Kivy%202.0%20Released!%20How%20To%20Install) | :hourglass:     | [ ⬅️ Atras](https://github.com/BrianMarquez3) | -  | [Kivy 2 0 Released! How To Install](#Kivy-2-0-Released!-How-To-Install)
+| 021  | :heavy_check_mark: | [Image Viewer With FileChooserIconView and FileChooserListView](https://github.com/BrianMarquez3/Python-Kivy/tree/main/022%20Image%20Viewer%20With%20FileChooserIconView%20and%20FileChooserListView) | :hourglass:     | [ ⬅️ Atras](https://github.com/BrianMarquez3) | -  | [Image Viewer With FileChooserIconView and FileChooserListView](#Image-Viewer-With-FileChooserIconView-and-FileChooserListView)
+| 023  | :heavy_check_mark: | [Spell ChecketView](https://github.com/BrianMarquez3/Python-Kivy/tree/main/023%20Spell%20Checker) | :hourglass:     | [ ⬅️ Atras](https://github.com/BrianMarquez3) | -  |  [Spell ChecketView](#Spell-ChecketView)
+| 024  | :heavy_check_mark: | [Sliders For Kivy](https://github.com/BrianMarquez3/Python-Kivy/tree/main/023%20Spell%20Checker) | :hourglass:     | [ ⬅️ Atras](https://github.com/BrianMarquez3) | -  | [Sliders For Kivy](#Sliders-For-Kivy)
 
 
 ## Que es Kiby
@@ -240,6 +241,37 @@ _Link de Descarga_
 | Carpeta                    | Link |     Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Standalone Python EXE Executable](https://github.com/BrianMarquez3/Python-Kivy/tree/main/019_StandalonePythoEXE_Executable)          |      ✔️     | [⬅️ Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
+## Kivy 2.0 Released! How To Install
+
+
+| Carpeta                    | Link |     Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Kivy 2.0 Released! How To Install](https://github.com/BrianMarquez3/Python-Kivy/tree/main/020%20Kivy%202.0%20Released!%20How%20To%20Install)          |      ✔️     | [⬅️ Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
+
+## Image Viewer With FileChooserIconView and FileChooserListView
+
+
+| Carpeta                    | Link |     Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Image Viewer With FileChooserIconView and FileChooserListView](https://github.com/BrianMarquez3/Python-Kivy/tree/main/022%20Image%20Viewer%20With%20FileChooserIconView%20and%20FileChooserListView)          |      ✔️     | [⬅️ Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
+
+## Spell ChecketView
+
+
+| Carpeta                    | Link |     Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Spell ChecketView](https://github.com/BrianMarquez3/Python-Kivy/tree/main/023%20Spell%20Checker)          |      ✔️     | [⬅️ Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
+
+## Sliders For Kivy
+
+| Carpeta                    | Link |     Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Sliders For Kivy](https://github.com/BrianMarquez3/Python-Kivy/tree/main/019_StandalonePythoEXE_Executable)          |      ✔️     | [⬅️ Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
 
 ---
 ## Paypal
