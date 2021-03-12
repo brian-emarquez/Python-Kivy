@@ -112,7 +112,7 @@ conda install kivy -c conda-forge
 
 ## PIP
 
-📖_Documentacion PIP_ 
+📖 Documentacion PIP 
 
 Installar Kivy 
 
