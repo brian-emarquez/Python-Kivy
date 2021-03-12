@@ -151,7 +151,8 @@ conda activate prueba
 ```
 python
 ```
-- Run
+▶ Run
+
 ```
 App().run()
 ```
@@ -161,11 +162,23 @@ _Ventana de Ejecucion_
 
 ## Comandos
 
+_PyEnchant_
+
+```
+pip install PyEnchant
+```
+
 _Verifica la versión de CONDA_
 
 ```
 conda --version
 ````
+
+_Kivy_
+```
+pip install kivy
+```
+
 
 _Listado de Modulos instalados CONDA_
 
@@ -232,3 +245,5 @@ _Link de Descarga_
 ## Paypal
 
 🩸 Hacer una donación [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y) 🍵
+
+---
