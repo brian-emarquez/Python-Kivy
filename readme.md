@@ -288,3 +288,5 @@ _Link de Descarga_
 🩸 Hacer una donación [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y) 🍵
 
 ---
+
+<div align="center"><img src="images/brain.gif"></div>
