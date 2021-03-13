@@ -13,31 +13,16 @@ from kivy.properties import ObjectProperty
 from kivy.lang import Builder
 from kivy.core.window import Window
 from kivy.core.spelling import Spelling
+#from kivy.uix.slider import Slider
 
 # Designate our .kv design file
 Builder.load_file('spell.kv')
 
 class MyLayout(Widget):
-    def press (self):
-        # Create instalce of spelling
-        s = Spelling()
-
-        # Select the lenguje
-        s.select_language('en_US')
-
-        # See the Languaje options
-        #print(s.list_languages())
-
-        # Grab the word
-        word = self.ids.word_input.text
-
-        options = s.suggest(word)
-        x = ''
-        for item in options:
-            x = f'{x} {item}'
-        # update our label
-        self.ids.word_label.text = f'{x}'
-
+    def slide_it(self, *args):
+        #print(args[1])
+        self.slide_text.text = str(int(args[1]))
+        self.slide_text.font_size = str(int(args[1])*5)
 
 class AwersomeApp(App): #my.kv
     def build(self):
