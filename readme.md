@@ -60,7 +60,7 @@
 | 021  | :heavy_check_mark: | [Image Viewer With FileChooserIconView and FileChooserListView](https://github.com/BrianMarquez3/Python-Kivy/tree/main/022%20Image%20Viewer%20With%20FileChooserIconView%20and%20FileChooserListView) | :hourglass:     | [ ⬅️ Atras](https://github.com/BrianMarquez3) | -  | [Image Viewer With FileChooserIconView and FileChooserListView](#Image-Viewer-With-FileChooserIconView-and-FileChooserListView)
 | 023  | :heavy_check_mark: | [Spell ChecketView](https://github.com/BrianMarquez3/Python-Kivy/tree/main/023%20Spell%20Checker) | :hourglass:     | [ ⬅️ Atras](https://github.com/BrianMarquez3) | -  |  [Spell ChecketView](#Spell-ChecketView)
 | 024  | :heavy_check_mark: | [Sliders For Kivy](https://github.com/BrianMarquez3/Python-Kivy/tree/main/024%20Sliders%20For%20Kivy) | :hourglass:     | [ ⬅️ Atras](https://github.com/BrianMarquez3) | -  | [Sliders For Kivy](#Sliders-For-Kivy)
-| 025  | :heavy_check_mark: | [Accordions For Kivy]() | :hourglass:     | [ ⬅️ Atras](https://github.com/BrianMarquez3) | -  | [Accordions For Kivy](#Accordions-For-Kivy)
+| 025  | :heavy_check_mark: | [Accordions For Kivy](https://github.com/BrianMarquez3/Python-Kivy/tree/main/025%20Accordions%20For%20Kivy) | :hourglass:     | [ ⬅️ Atras](https://github.com/BrianMarquez3) | -  | [Accordions For Kivy](#Accordions-For-Kivy)
 
 ## Que es Kiby
 
@@ -280,8 +280,7 @@ _Link de Descarga_
 
 | Carpeta                    | Link |     Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Accordions For Kivy](https://github.com/BrianMarquez3/Python-Kivy/tree/main/024%20Sliders%20For%20Kivy)          |      ✔️     | [⬅️ Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
-
+| [Accordions For Kivy](https://github.com/BrianMarquez3/Python-Kivy/tree/main/025%20Accordions%20For%20Kivy
 
 ---
 ## Paypal
