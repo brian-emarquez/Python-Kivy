@@ -266,8 +266,9 @@ _Link de Descarga_
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Spell ChecketView](https://github.com/BrianMarquez3/Python-Kivy/tree/main/023%20Spell%20Checker)          |      ✔️     | [⬅️ Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
-
 ## Sliders For Kivy
+
+![kivy](./images/spell.gif)
 
 | Carpeta                    | Link |     Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
