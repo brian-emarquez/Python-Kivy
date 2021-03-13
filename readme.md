@@ -272,7 +272,7 @@ _Link de Descarga_
 
 | Carpeta                    | Link |     Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Sliders For Kivy](https://github.com/BrianMarquez3/Python-Kivy/tree/main/024%20Sliders%20For%20Kivy)          |      ✔️     | [⬅️ Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [Sliders For Kivy](https://github.com/BrianMarquez3/Python-Kivy/tree/main/024%20Sliders%20For%20Kivy)   |      ✔️     | [⬅️ Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 ## Accordions For Kivy
 
@@ -280,7 +280,7 @@ _Link de Descarga_
 
 | Carpeta                    | Link |     Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Accordions For Kivy](https://github.com/BrianMarquez3/Python-Kivy/tree/main/025%20Accordions%20For%20Kivy
+| [Accordions For Kivy](https://github.com/BrianMarquez3/Python-Kivy/tree/main/025%20Accordions%20For%20Kivy)  |      ✔️     | [⬅️ Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 ---
 ## Paypal
