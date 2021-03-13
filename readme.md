@@ -260,6 +260,7 @@ _Link de Descarga_
 
 ## Spell ChecketView
 
+![kivy](../images/capture.png)
 
 | Carpeta                    | Link |     Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
