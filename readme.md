@@ -286,6 +286,8 @@ _Link de Descarga_
 
 ## Carousels For Kivy
 
+![kivy](./images/Carousel.gif)
+
 | Carpeta                    | Link |     Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Carousels For Kivy](https://github.com/BrianMarquez3/Python-Kivy/tree/main/026%20Carousels%20For%20Kivy)  |      ✔️     | [⬅️ Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |

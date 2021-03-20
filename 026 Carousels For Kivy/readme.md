@@ -1,3 +1,3 @@
 ### Carousels For Kivy
 
-<!-- ![kivy](../images/capturee.gif) -->
+![kivy](../images/Carousel.gif)
