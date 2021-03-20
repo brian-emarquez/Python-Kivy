@@ -1,5 +1,5 @@
 #############################################
-# How To Create Radio Buttons
+# How To Create CheckBoxes
 #############################################
 
 import kivy
@@ -19,20 +19,7 @@ from kivy.core.spelling import Spelling
 Builder.load_file('spell.kv')
 
 class MyLayout(Widget):
-    check = []
-    def checkbox_click(self, instance, value, topping):
-        if value == True:
-            MyLayout.check.append(topping)
-            tops = ''
-            for x in MyLayout.check:
-                tops = f'{tops} {x}'
-            self.ids.output_label.text = f'You Selected: {tops}'
-        else:
-            MyLayout.check.remove(topping)
-            tops = ''
-            for x in MyLayout.check:
-                tops = f'{tops} {x}'
-            self.ids.output_label.text = f'You Selected: {tops}'
+    pass
 
 class AwersomeApp(App): #my.kv
     def build(self):
