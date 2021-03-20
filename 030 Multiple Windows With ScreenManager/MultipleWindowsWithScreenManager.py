@@ -13,16 +13,24 @@ from kivy.properties import ObjectProperty
 from kivy.lang import Builder
 from kivy.core.window import Window
 from kivy.core.spelling import Spelling
+from kivy.iux.ScreenManager import ScreenManager, Screen
+
+# define our differenrt screens
+class FirstWindow(Screen)
+    pass
+
+class SecondWindow(Screen)
+    pass
+
+class WindowManager(ScreenManager)
+    pass
 
 # Designate our .kv design file
-Builder.load_file('popup.kv')
-
-class MyLayout(Widget):
-    pass
+kv = Builder.load_file('new_window.kv')
 
 class AwersomeApp(App): #my.kv
     def build(self):
-        return MyLayout()
+        return kv
         
 if __name__ == '__main__':
     AwersomeApp().run()
