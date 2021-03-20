@@ -13,16 +13,16 @@ from kivy.properties import ObjectProperty
 from kivy.lang import Builder
 from kivy.core.window import Window
 from kivy.core.spelling import Spelling
-from kivy.iux.ScreenManager import ScreenManager, Screen
+from kivy.uix.screenmanager import ScreenManager, Screen
 
 # define our differenrt screens
-class FirstWindow(Screen)
+class FirstWindow(Screen):
     pass
 
-class SecondWindow(Screen)
+class SecondWindow(Screen):
     pass
 
-class WindowManager(ScreenManager)
+class WindowManager(ScreenManager):
     pass
 
 # Designate our .kv design file
