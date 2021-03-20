@@ -65,7 +65,7 @@
 | 027  | :heavy_check_mark: | [How To Create CheckBoxes](https://github.com/BrianMarquez3/Python-Kivy/tree/main/027%20How%20To%20Create%20CheckBoxes) | :hourglass:     | [ ⬅️ Atras](https://github.com/BrianMarquez3) |  [How To Create CheckBoxes](#How-To-Create-CheckBoxes)|
 | 028  | :heavy_check_mark: | [How To Create Radio Buttons](https://github.com/BrianMarquez3/Python-Kivy/tree/main/028%20How%20To%20Create%20Radio%20Buttons) | :hourglass:     | [ ⬅️ Atras](https://github.com/BrianMarquez3) |  [How To Create Radio Buttons](#How-To-Create-Radio-Buttons)|
 | 029  | :heavy_check_mark: | [How To Create Popup Boxes](https://github.com/BrianMarquez3/Python-Kivy/tree/main/029%20How%20To%20Create%20Popup%20Boxes) | :hourglass:     | [ ⬅️ Atras](https://github.com/BrianMarquez3) |  [How To Create Popup Boxes](#How-To-Create-Popup-Boxes)|
-
+| 030  | :heavy_check_mark: | [](https://github.com/BrianMarquez3/Python-Kivy/tree/main/029%20How%20To%20Create%20Popup%20Boxes) | :hourglass:     | [ ⬅️ Atras](https://github.com/BrianMarquez3) |  [How To Create Popup Boxes](#How-To-Create-Popup-Boxes)|
 
 ## Que es Kiby
 
