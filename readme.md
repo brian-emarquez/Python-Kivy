@@ -306,19 +306,19 @@ _Link de Descarga_
 
 ## How To Create Radio Buttons
 
-![kivy](./images/howtochechboxes.gif)
+
 
 | Carpeta                    | Link |     Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [How To Create Radio Buttons](https://github.com/BrianMarquez3/Python-Kivy/tree/main/028%20How%20To%20Create%20Radio%20Buttons)  |      ✔️     | [⬅️ Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
-## How To Create Radio Buttons1111
+## How To Create Popup Boxes
 
-![kivy](./images/howtochechboxes.gif)
+<!-- ![kivy](./images/howtochechboxes.gif) -->
 
 | Carpeta                    | Link |     Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [How To Create Radio Buttons](https://github.com/BrianMarquez3/Python-Kivy/tree/main/029%20How%20To%20Create%20Popup%20Boxes)  |      ✔️     | [⬅️ Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [How To Create Popup Boxes](https://github.com/BrianMarquez3/Python-Kivy/tree/main/029%20How%20To%20Create%20Popup%20Boxes)  |      ✔️     | [⬅️ Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 ---
 ## Paypal
