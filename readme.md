@@ -67,8 +67,6 @@
 | 029  | :heavy_check_mark: | [How To Create Popup Boxes](https://github.com/BrianMarquez3/Python-Kivy/tree/main/029%20How%20To%20Create%20Popup%20Boxes) | :hourglass:     | [ ⬅️ Atras](https://github.com/BrianMarquez3) |  [How To Create Popup Boxes](#How-To-Create-Popup-Boxes)|
 | 030  | :heavy_check_mark: | [Multiple Windows With ScreenManager](https://github.com/BrianMarquez3/Python-Kivy/tree/main/030%20Multiple%20Windows%20With%20ScreenManager) | :hourglass:     | [ ⬅️ Atras](https://github.com/BrianMarquez3) |  [Multiple Windows With ScreenManager](#Multiple-Windows-With-ScreenManager)|
 
-![kivy](./images/Kivy.png)
-
 ## Que es Kiby
 
 Kivy es una biblioteca de código abierto de Python para el rápido desarrollo de interfaces de usuario multiplataforma. Las aplicaciones Kivy se pueden desarrollar para Linux, Windows, OS X, Android e iOS usando el mismo código base.
@@ -77,7 +75,8 @@ Los gráficos se procesan a través de OpenGL ES 2 en lugar de a través de widg
 
 Desarrollar interfaces en Kivy opcionalmente implica el uso de kvlang, un pequeño lenguaje que admite expresiones similares a python e interoperabilidad de python. El uso de kvlang puede simplificar drásticamente el desarrollo de la interfaz de usuario en comparación con el uso exclusivo de Python. [RIPTUTORIAL](https://riptutorial.com/es/kivy).<br>
 
----
+![kivy](./images/Kivy.png)
+
 ## Anaconda
 
 _Anaconda Navigator_
