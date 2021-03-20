@@ -62,8 +62,8 @@
 | 024  | :heavy_check_mark: | [Sliders For Kivy](https://github.com/BrianMarquez3/Python-Kivy/tree/main/024%20Sliders%20For%20Kivy) | :hourglass:     | [ ⬅️ Atras](https://github.com/BrianMarquez3) |  [Sliders For Kivy](#Sliders-For-Kivy)|
 | 025  | :heavy_check_mark: | [Accordions For Kivy](https://github.com/BrianMarquez3/Python-Kivy/tree/main/025%20Accordions%20For%20Kivy) | :hourglass:     | [ ⬅️ Atras](https://github.com/BrianMarquez3) |  [Accordions For Kivy](#Accordions-For-Kivy)|
 | 026  | :heavy_check_mark: | [Carousels For Kivy](https://github.com/BrianMarquez3/Python-Kivy/tree/main/026%20Carousels%20For%20Kivy) | :hourglass:     | [ ⬅️ Atras](https://github.com/BrianMarquez3) |  [Carousels For Kivy](#Carousels-For-Kivy)|
-| 027
-  | :heavy_check_mark: | [Carousels For Kivy](https://github.com/BrianMarquez3/Python-Kivy/tree/main/026%20Carousels%20For%20Kivy) | :hourglass:     | [ ⬅️ Atras](https://github.com/BrianMarquez3) |  [Carousels For Kivy](#Carousels-For-Kivy)|
+| 027  | :heavy_check_mark: | [How To Create CheckBoxes](https://github.com/BrianMarquez3/Python-Kivy/tree/main/027%20How%20To%20Create%20CheckBoxes) | :hourglass:     | [ ⬅️ Atras](https://github.com/BrianMarquez3) |  [How To Create CheckBoxes](#How-To-Create-CheckBoxes)|
+| 028  | :heavy_check_mark: | [How To Create Radio Buttons](https://github.com/BrianMarquez3/Python-Kivy/tree/main/027%20How%20To%20Create%20CheckBoxes) | :hourglass:     | [ ⬅️ Atras](https://github.com/BrianMarquez3) |  [How To Create Radio Buttons](#How-To-Create-Radio-Buttons)|
 
 ## Que es Kiby
 
@@ -292,6 +292,23 @@ _Link de Descarga_
 | Carpeta                    | Link |     Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Carousels For Kivy](https://github.com/BrianMarquez3/Python-Kivy/tree/main/026%20Carousels%20For%20Kivy)  |      ✔️     | [⬅️ Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
+
+## How To Create CheckBoxes
+
+![kivy](./images/howtochechboxes.gif)
+
+| Carpeta                    | Link |     Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [How To Create CheckBoxes](https://github.com/BrianMarquez3/Python-Kivy/tree/main/027%20How%20To%20Create%20CheckBoxes)  |      ✔️     | [⬅️ Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
+## How To Create Radio Buttons
+
+![kivy](./images/howtochechboxes.gif)
+
+| Carpeta                    | Link |     Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [How To Create Radio Buttons](https://github.com/BrianMarquez3/Python-Kivy/tree/main/027%20How%20To%20Create%20CheckBoxes)  |      ✔️     | [⬅️ Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 ---
 ## Paypal
