@@ -324,7 +324,7 @@ _Link de Descarga_
 
 ## Multiple Windows With ScreenManager
 
-<!-- ![kivy](./images/howtochechboxes.gif) -->
+![kivy](./images/multipleWindow.gif) 
 
 | Carpeta                    | Link |     Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|

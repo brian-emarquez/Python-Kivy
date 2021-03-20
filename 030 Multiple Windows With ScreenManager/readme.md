@@ -1,3 +1,3 @@
 ### Multiple Windows With ScreenManager
 
-<!-- ![kivy](../images/howtochechboxes.gif)  -->
+![kivy](../images/multipleWindow.gif)
