@@ -19,10 +19,7 @@ from kivy.core.spelling import Spelling
 Builder.load_file('spell.kv')
 
 class MyLayout(Widget):
-    def slide_it(self, *args):
-        #print(args[1])
-        self.slide_text.text = str(int(args[1]))
-        self.slide_text.font_size = str(int(args[1])*5)
+    pass
 
 class AwersomeApp(App): #my.kv
     def build(self):

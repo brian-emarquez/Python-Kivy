@@ -1,3 +1,3 @@
-### Accordions For Kivy
+### Carousels For Kivy
 
-![kivy](../images/capturee.gif)
+<!-- ![kivy](../images/capturee.gif) -->
