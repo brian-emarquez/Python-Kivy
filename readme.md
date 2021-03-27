@@ -344,8 +344,6 @@ _Link de Descarga_
 
 ## How To Resize Widgets With Splitters
 
-![kivy](./images/multipleWindow.gif) 
-
 | Carpeta                    | Link |     Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [How To Resize Widgets With Splitters](https://github.com/BrianMarquez3/Python-Kivy/tree/main/032%20How%20To%20Resize%20Widgets%20With%20Splitters)  |      ✔️     | [⬅️ Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
