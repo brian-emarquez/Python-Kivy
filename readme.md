@@ -147,6 +147,7 @@ kivy_venv\Scripts\activate
 source kivy_venv/Scripts/activate    
 ```
 
+
 [PIP Kivy](https://kivy.org/doc/stable/gettingstarted/installation.html#install-pip)
 ---
 ## Ejecutar Primera Ventana
