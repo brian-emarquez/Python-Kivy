@@ -77,7 +77,7 @@ Desarrollar interfaces en Kivy opcionalmente implica el uso de kvlang, un peque√
 
 ![kivy](./images/Kivy.png)
 
-## Anaconda
+## Anaconda 
 
 _Anaconda Navigator_
 
@@ -135,15 +135,16 @@ python -m pip install --upgrade pip setuptools virtualenv
 
 ```
 python -m virtualenv kivy_venv
+
 ```
 - Activate
 
 ```
-kivy_venv\Scripts\activate`
+kivy_venv\Scripts\activate
 ```
 
 ```
-source kivy_venv/Scripts/activate
+source kivy_venv/Scripts/activate    
 ```
 
 [PIP Kivy](https://kivy.org/doc/stable/gettingstarted/installation.html#install-pip)
