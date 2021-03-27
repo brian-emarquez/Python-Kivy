@@ -11,10 +11,11 @@ from kivy.uix.button import Button
 from kivy.uix.widget import Widget
 from kivy.properties import ObjectProperty
 from kivy.lang import Builder
+from kivy.uix.tabbedpanel import TabbedPanel
 
-Builder.load_file('spin.kv')
+Builder.load_file('tabs.kv')
 
-class MyLayout(Widget):
+class MyLayout(TabbedPanel):
     pass
 
 class AwersomeApp(App): #my.kv

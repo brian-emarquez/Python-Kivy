@@ -1,0 +1,25 @@
+<MyLayout>
+	do_default_tab: False
+
+	size_hint: .5, .5
+	pos_hint: {'center_x': .5, 'center_y': .5 }
+
+	tab_pos: 'top_mid' #centrar
+
+	TabbedPanelItem:
+		text: "Tab 1"
+		Label:
+			text: "Hello World!"
+
+	TabbedPanelItem:
+		text: "Tab 2"
+		BoxLayout:
+			Label:
+				text: "Press the Button =>"
+			Button:
+				text: "Click me!"
+
+	TabbedPanelItem:
+		text: "Tab 3"
+		Image:
+			source: "images/1.jpg"
