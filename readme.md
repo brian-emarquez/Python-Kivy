@@ -352,6 +352,8 @@ _Link de Descarga_
 
 ## How To Create Tabs In Kivy
 
+![kivy](./images/tabs.gif) 
+
 | Carpeta                    | Link |     Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [How To Create Tabs In Kivy](https://github.com/BrianMarquez3/Python-Kivy/tree/main/033%20How%20To%20Create%20Tabs%20In%20Kivy)  |      ✔️     | [⬅️ Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
