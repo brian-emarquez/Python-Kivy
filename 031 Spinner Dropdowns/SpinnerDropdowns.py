@@ -12,10 +12,11 @@ from kivy.uix.widget import Widget
 from kivy.properties import ObjectProperty
 from kivy.lang import Builder
 
-Builder.load_file('skin.kv')
+Builder.load_file('spin.kv')
 
 class MyLayout(Widget):
-    pass
+    def spinner_clicked(self, value):
+            self.ids.click_label.text = f'you selected: {value}'
 
 class AwersomeApp(App): #my.kv
     def build(self):
