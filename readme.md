@@ -68,6 +68,8 @@
 | 030  | :heavy_check_mark: | [Multiple Windows With ScreenManager](https://github.com/BrianMarquez3/Python-Kivy/tree/main/030%20Multiple%20Windows%20With%20ScreenManager) | :hourglass:     | [ ⬅️ Atras](https://github.com/BrianMarquez3) |  [Multiple Windows With ScreenManager](#Multiple-Windows-With-ScreenManager)|
 | 031  | :heavy_check_mark: | [Spinner Dropdowns](https://github.com/BrianMarquez3/Python-Kivy/tree/main/030%20Multiple%20Windows%20With%20ScreenManager) | :hourglass:     | [ ⬅️ Atras](https://github.com/BrianMarquez3) |  [Spinner Dropdowns](#Spinner-Dropdowns)|
 | 032  | :heavy_check_mark: | [How To Resize Widgets With Splitters](https://github.com/BrianMarquez3/Python-Kivy/tree/main/032%20How%20To%20Resize%20Widgets%20With%20Splitters) | :hourglass:     | [ ⬅️ Atras](https://github.com/BrianMarquez3) |  [How To Resize Widgets With Splitters](#How-To-Resize-Widgets-With-Splitters)|
+| 033  | :heavy_check_mark: | [How To Create Tabs In Kivy](https://github.com/BrianMarquez3/Python-Kivy/tree/main/033%20How%20To%20Create%20Tabs%20In%20Kivy) | :hourglass:     | [ ⬅️ Atras](https://github.com/BrianMarquez3) |  [How To Create Tabs In Kivy](#How-To-Create-Tabs-In-Kivy)|
+
 
 ## Que es Kiby
 
@@ -347,6 +349,12 @@ _Link de Descarga_
 | Carpeta                    | Link |     Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [How To Resize Widgets With Splitters](https://github.com/BrianMarquez3/Python-Kivy/tree/main/032%20How%20To%20Resize%20Widgets%20With%20Splitters)  |      ✔️     | [⬅️ Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
+## How To Create Tabs In Kivy
+
+| Carpeta                    | Link |     Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [How To Create Tabs In Kivy](https://github.com/BrianMarquez3/Python-Kivy/tree/main/033%20How%20To%20Create%20Tabs%20In%20Kivy)  |      ✔️     | [⬅️ Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 ---
 ## Paypal
