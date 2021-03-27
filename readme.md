@@ -352,7 +352,6 @@ _Link de Descarga_
 
 ## How To Create Tabs In Kivy
 
-![kivy](./images/tabs.gif) 
 
 | Carpeta                    | Link |     Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
