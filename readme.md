@@ -69,6 +69,7 @@
 | 031  | :heavy_check_mark: | [Spinner Dropdowns](https://github.com/BrianMarquez3/Python-Kivy/tree/main/030%20Multiple%20Windows%20With%20ScreenManager) | :hourglass:     | [ ⬅️ Atras](https://github.com/BrianMarquez3) |  [Spinner Dropdowns](#Spinner-Dropdowns)|
 | 032  | :heavy_check_mark: | [How To Resize Widgets With Splitters](https://github.com/BrianMarquez3/Python-Kivy/tree/main/032%20How%20To%20Resize%20Widgets%20With%20Splitters) | :hourglass:     | [ ⬅️ Atras](https://github.com/BrianMarquez3) |  [How To Resize Widgets With Splitters](#How-To-Resize-Widgets-With-Splitters)|
 | 033  | :heavy_check_mark: | [How To Create Tabs In Kivy](https://github.com/BrianMarquez3/Python-Kivy/tree/main/033%20How%20To%20Create%20Tabs%20In%20Kivy) | :hourglass:     | [ ⬅️ Atras](https://github.com/BrianMarquez3) |  [How To Create Tabs In Kivy](#How-To-Create-Tabs-In-Kivy)|
+| 034  | :heavy_check_mark: | [How To Use Images As Buttons](https://github.com/BrianMarquez3/Python-Kivy/tree/main/034%20How%20To%20Use%20Images%20As%20Buttons) | :hourglass:     | [ ⬅️ Atras](https://github.com/BrianMarquez3) |  [How To Use Images As Buttons](#How-To-Use-Images-As-Buttons)|
 
 
 ## Que es Kiby
@@ -356,6 +357,13 @@ _Link de Descarga_
 | Carpeta                    | Link |     Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [How To Create Tabs In Kivy](https://github.com/BrianMarquez3/Python-Kivy/tree/main/033%20How%20To%20Create%20Tabs%20In%20Kivy)  |      ✔️     | [⬅️ Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
+## How To Use Images As Buttons
+
+
+| Carpeta                    | Link |     Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [How To Use Images As Buttons](https://github.com/BrianMarquez3/Python-Kivy/tree/main/034%20How%20To%20Use%20Images%20As%20Buttons)  |      ✔️     | [⬅️ Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 ---
 ## Paypal
