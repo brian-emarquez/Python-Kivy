@@ -368,6 +368,8 @@ _Link de Descarga_
 
 ## How To Create Animation With Kivy
 
+![kivy](./images/animation.gif)
+
 | Carpeta                    | Link |     Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [How To Create Animation With Kivy](https://github.com/BrianMarquez3/Python-Kivy/tree/main/035%20How%20To%20Create%20Animation%20With%20Kivy)  |      ✔️     | [⬅️ Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
