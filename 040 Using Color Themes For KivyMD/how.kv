@@ -1,33 +1,13 @@
-<MyLayout>
+Screen:
 
-	BoxLayout:
-		orientation: "vertical"
-		size: root.width, root.height
+	MDRaisedButton:
+		text: "First Button"
+		post_hint: {"center_x": 0.5, "center_y": 0.8}
 
-		MDScreen:
+	MDRaisedButton:
+		text: "Second Button"
+		post_hint: {"center_x": 0.5, "center_y": 0.5}
 
-			MDCard:
-				orientation: "vertical"
-				padding: "8dp"
-				size_hint: None, None
-				size: "280dp", "180dp"
-				pos_hint: {"center_x": .5, "center_y": .5}
-
-				MDLabel:
-					text: "Title"
-					theme_text_color: "Secondary"
-					size_hint_y: None
-					height: self.texture_size[1]
-
-				MDSeparator:
-					height: "1dp"
-
-				MDLabel:
-					text: "Body"
-
-		MDScreen:
-
-			MDSlider:
-				min: 0
-				max: 100
-				value: 40			
+	MDRaisedButton:
+		text: "Third Button"
+		post_hint: {"center_x": 0.5, "center_y": 0.3}
