@@ -71,6 +71,8 @@
 | 033  | :heavy_check_mark: | [How To Create Tabs In Kivy](https://github.com/BrianMarquez3/Python-Kivy/tree/main/033%20How%20To%20Create%20Tabs%20In%20Kivy) | :hourglass:     | [ ⬅️ Atras](https://github.com/BrianMarquez3) |  [How To Create Tabs In Kivy](#How-To-Create-Tabs-In-Kivy)|
 | 034  | :heavy_check_mark: | [How To Use Images As Buttons](https://github.com/BrianMarquez3/Python-Kivy/tree/main/034%20How%20To%20Use%20Images%20As%20Buttons) | :hourglass:     | [ ⬅️ Atras](https://github.com/BrianMarquez3) |  [How To Use Images As Buttons](#How-To-Use-Images-As-Buttons)|
 | 035  | :heavy_check_mark: | [How To Create Animation With Kivy](https://github.com/BrianMarquez3/Python-Kivy/tree/main/035%20How%20To%20Create%20Animation%20With%20Kivy) | :hourglass:     | [ ⬅️ Atras](https://github.com/BrianMarquez3) |  [How To Create Animation With Kivy](#How-To-Create-Animation-With-Kivy)|
+| 036  | :heavy_check_mark: | [036 How To Use Markup To Change Text Style](https://github.com/BrianMarquez3/Python-Kivy/tree/main/035%20How%20To%20Create%20Animation%20With%20Kivy) | :hourglass:     | [ ⬅️ Atras](https://github.com/BrianMarquez3) |  [How To Create Animation With Kivy](#How-To-Create-Animation-With-Kivy)|
+
 
 
 ## Que es Kiby
