@@ -1,13 +1,15 @@
 Screen:
 
-	MDRaisedButton:
-		text: "First Button"
-		post_hint: {"center_x": 0.5, "center_y": 0.8}
+	MDRectangleFlatButton:
+		text: "Light Button"
+		pos_hint: {"center_x": 0.5, "center_y": 0.8}
+		md_bg_color: app.theme_cls.primary_light
 
 	MDRaisedButton:
-		text: "Second Button"
-		post_hint: {"center_x": 0.5, "center_y": 0.5}
+		text: "Primary Button"
+		pos_hint: {"center_x": 0.5, "center_y": 0.5}
 
 	MDRaisedButton:
-		text: "Third Button"
-		post_hint: {"center_x": 0.5, "center_y": 0.3}
+		text: "Dark Button"
+		pos_hint: {"center_x": 0.5, "center_y": 0.3}
+		md_bg_color: app.theme_cls.primary_dark
