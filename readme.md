@@ -31,7 +31,15 @@
   <img src="https://img.shields.io/github/last-commit/BrianMarquez3/Python-Kivy?color=black&style=for-the-badge">
   <img src="https://img.shields.io/github/languages/count/BrianMarquez3/Python-Kivy?style=for-the-badge">
 
-![kivy](./images/kivyy.gif)
+<!-- ![kivy](./images/kivyy.gif) -->
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./Images/kivyy.gif" />
+    </td>
+  </tr>
+</table>
 
 ## Tabla de Contenidos
 
@@ -396,4 +404,19 @@ _Link de Descarga_
 
 ---
 
-<div align="center"><img src="images/brain.gif"></div>
+<!-- <div align="center"><img src="images/brain.gif"></div> -->
+ <table align="center">
+    <tr>
+      <td colspan="3">A</td>
+        <td>B</td>
+      </tr>
+      <tr>
+        <td>C</td>
+      <td colspan="2"><img align="center" style="padding=0;" src="./images/brain.gif" /></td>
+        <td>E</td>
+      </tr>
+      <tr>
+      <td colspan="3">F</td>
+        <td>G</td>
+    </tr>
+</table>
