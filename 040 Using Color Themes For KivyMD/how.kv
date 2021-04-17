@@ -1,20 +1,16 @@
 Screen:
 
-	MDCard:
-		size_hint: None, None
-		size: 300, 400
+	MDRectangleFlatButton:
+		text: "Light Button"
+		pos_hint: {"center_x": 0.5, "center_y": 0.8}
+		md_bg_color: app.theme_cls.primary_light
+
+	MDRaisedButton:
+		text: "Primary Button"
 		pos_hint: {"center_x": 0.5, "center_y": 0.5}
-		elevation: 10
-		padding: 25
-		spacing: 25
 
-		orientation: 'vertical'
+	MDRaisedButton:
+		text: "Dark Button"
+		pos_hint: {"center_x": 0.5, "center_y": 0.3}
+		md_bg_color: app.theme_cls.primary_dark
 
-	MDLabel:
-	id: welcome_label
-	text: "WELCOME"
-	font_size: 40
-	halign: 'center'
-	size_hint_y: None
-	height: self.texture_size[1]
-	padding_y: 15
