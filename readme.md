@@ -388,17 +388,84 @@ _Link de Descarga_
 | [How To Create Animation With Kivy](https://github.com/BrianMarquez3/Python-Kivy/tree/main/035%20How%20To%20Create%20Animation%20With%20Kivy)  |      ✔️     | [⬅️ Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 
-
-## How To Use Markup To Change Text Style
-
-![kivy](./images/textStyle.png) 
+## How To Create a Switch With Kivy
 
 | Carpeta                    | Link |     Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [How To Use Markup To Change Text Style](https://github.com/BrianMarquez3/Python-Kivy/tree/main/036%20How%20To%20Use%20Markup%20To%20Change%20Text%20Style)  |      ✔️     | [⬅️ Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [How To Create a Switch With Kivy](https://github.com/BrianMarquez3/Python-Kivy/tree/main/035%20How%20To%20Create%20Animation%20With%20Kivy)  |      ✔️     | [⬅️ Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 
 
+## How To Use Markup To Change Text Style
+
+| Carpeta                    | Link |     Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [How To Use Markup To Change Text Style](https://github.com/BrianMarquez3/Python-Kivy/tree/main/037%20How%20To%20Use%20Markup%20To%20Change%20Text%20Style)  |      ✔️     | [⬅️ Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
+
+
+## Intro To KivyMD Installation
+
+[https://material.io/design]
+
+![kivy](./images/KivyMD.gif)
+
+_Crear Entorno Kivy_
+
+- create File kivymd
+- Ingresar el comondo: cd kivymd/
+- python -m venv virt
+- source virt/Scrips/activate
+
+_Intalar librerias necesarioas_
+
+- pip install pillow
+- pip install kivy
+- pip freeze
+
+_Clonar Archivo de github_
+
+- $ git clone https://github.com/kivymd/KivyMD.git --depth 1
+
+_Instalar_
+
+- cd KivyMD
+- pip install .
+
+_Ingredar al Archivo y ejecutar_
+
+- cd demos
+- cd kitchen_sink
+- pyth
+
+
+
+| Carpeta                    | Link |     Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Intro To KivyMD Installation](https://github.com/BrianMarquez3/Python-Kivy/tree/main/039%20How%20To%20Teach%20Yourself%20KivyMD%20Quickly)  |      ✔️     | [⬅️ Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
+
+
+## How To Teach Yourself KivyMD Quickly
+
+| Carpeta                    | Link |     Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [How To Teach Yourself KivyMD Quickly](https://github.com/BrianMarquez3/Python-Kivy/tree/main/040%20Using%20Color%20Themes%20For%20KivyMD)  |      ✔️     | [⬅️ Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
+
+
+## Using Color Themes For KivyMD
+
+| Carpeta                    | Link |     Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Using Color Themes For KivyMD](https://github.com/BrianMarquez3/Python-Kivy/tree/main/035%20How%20To%20Create%20Animation%20With%20Kivy)  |      ✔️     | [⬅️ Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
+
+## Creating A Login Screen With KivyMD
+
+| Carpeta                    | Link |     Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Creating A Login Screen With KivyMD](https://github.com/BrianMarquez3/Python-Kivy/tree/main/041%20Creating%20A%20Login%20Screen%20With%20KivyMD)  |      ✔️     | [⬅️ Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 
 ---
