@@ -4,7 +4,7 @@ MDBoxLayout:
 	MDToolbar:
 		title: "Our Top Toolbar"
 		left_action_items: [["menu"]]
-		right_action_items: [["docts-vertical"]]
+		right_action_items: [["dots-vertical"]]
 
 	MDLabel:
 		id: my_label
@@ -14,5 +14,12 @@ MDBoxLayout:
 	MDBottomAppBar:
 		MDToolbar:
 			icon: 'git'
-			type: 'botoom'
-			mode: "free-end"
+			left_action_items: [["menu", lambda x: app.presser()]]
+			title: "Bottom Menu"
+			type: 'bottom'
+			#mode: "free-end"
+			mode: 'end'
+			# mode: 'center'
+			# mode: 'free-center'
+			# Click the BUtton
+			on_action_button: app.presser()

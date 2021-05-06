@@ -11,9 +11,9 @@ class MainApp(MDApp):
     def build(self):
         self.theme_cls.theme_style = "Dark"
         self.theme_cls.primary_palette = "BlueGray"
-        self.theme_cls.accent_palette = "Red"
         return Builder.load_file('how.kv')
 
-
+    def presser(self):
+        self.root.ids.my_label.text = "You pressed It!!"
 
 MainApp().run()

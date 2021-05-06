@@ -486,6 +486,14 @@ _Ingregar al Archivo y ejecutar_
   </tr>
 </table>
 
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="../images/bottomBar.png" />
+    </td>
+  </tr>
+</table>
+
 
 | Carpeta                    | Link |     Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
