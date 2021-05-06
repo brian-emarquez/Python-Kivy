@@ -12,6 +12,7 @@
     </td>
   </tr>
 </table>
+```
 
 git clone https://github.com/kivymd/KivyMD.git --depth 1
 cd KivyMD
