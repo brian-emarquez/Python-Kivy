@@ -4,7 +4,6 @@
 
 - [KivyMD Github](https://github.com/kivymd/KivyMD)
 
-```
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
@@ -12,8 +11,8 @@
     </td>
   </tr>
 </table>
-```
 
+```
 git clone https://github.com/kivymd/KivyMD.git --depth 1
 cd KivyMD
 pip install .
