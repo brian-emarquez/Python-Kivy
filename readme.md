@@ -417,20 +417,28 @@ _Crear Entorno Kivy_
 - python -m venv virt
 - source virt/Scrips/activate
 
-_Intalar librerias necesarioas_
+---
+
+_Instalar librerias necesarioas_
 
 - pip install pillow
 - pip install kivy
 - pip freeze
 
+---
+
 _Clonar Archivo de github_
 
 - $ git clone https://github.com/kivymd/KivyMD.git --depth 1
+
+---
 
 _Instalar_
 
 - cd KivyMD
 - pip install .
+
+---
 
 _Ingredar al Archivo y ejecutar_
 
