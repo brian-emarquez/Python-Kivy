@@ -440,7 +440,7 @@ _Instalar_
 
 ---
 
-_Ingredar al Archivo y ejecutar_
+_Ingregar al Archivo y ejecutar_
 
 - cd demos
 - cd kitchen_sink
