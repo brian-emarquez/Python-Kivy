@@ -413,7 +413,7 @@ _Link de Descarga_
 _Crear Entorno Kivy_
 
 - create File kivymd
-- Ingresar el comondo: cd kivymd/
+- Ingresar el comando: cd kivymd/
 - python -m venv virt
 - source virt/Scrips/activate
 
