@@ -4,6 +4,8 @@
 
 - [KivyMD Github](https://github.com/kivymd/KivyMD)
 
+- [Icons](https://zavoloklom.github.io/material-design-iconic-font/index.html)
+
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
