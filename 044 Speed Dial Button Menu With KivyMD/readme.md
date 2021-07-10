@@ -22,15 +22,6 @@ cd KivyMD
 pip install .
 ```
 
-**Activar**
-Crear Entorno Kivy
-
-```
-python -m venv virt
-source virt/Scrips/activate
-```
-
-**Pasos detallados**
 
 ## Intro To KivyMD Installation
 
@@ -49,8 +40,8 @@ _Crear Entorno Kivy_
 
 _Instalar librerias necesarioas_
 
-- python -m pip install --upgrade pip
 - pip install pillow
+- python -m pip install --upgrade pip
 - pip install kivy
 - pip freeze
 
