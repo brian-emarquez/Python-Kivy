@@ -10,8 +10,9 @@ from kivymd.app import MDApp
 class MainApp(MDApp): 
 
     data = {
-        "languaje-python":"Python",
-        
+        "language-python":"Python",
+        "language-ruby":"Ruby",
+        "language-javascript":"JS",
 
     }
 

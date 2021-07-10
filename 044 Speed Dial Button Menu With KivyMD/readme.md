@@ -14,11 +14,22 @@
   </tr>
 </table>
 
+**Crear KivyMd**
+
 ```
 git clone https://github.com/kivymd/KivyMD.git --depth 1
 cd KivyMD
 pip install .
 ```
+
+**Activar**
+Crear Entorno Kivy
+
+```
+python -m venv virt
+source virt/Scrips/activate
+```
+
 
 **Icons**
 

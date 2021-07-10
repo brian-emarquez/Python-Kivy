@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\brian\Documents\Python-Kivy\virt"
+VIRTUAL_ENV="D:\Proyectos\Python-Kivy\kivyMD\virt"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
