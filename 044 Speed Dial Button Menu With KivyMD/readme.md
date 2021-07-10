@@ -30,6 +30,52 @@ python -m venv virt
 source virt/Scrips/activate
 ```
 
+**Pasos detallados**
+
+## Intro To KivyMD Installation
+
+[https://material.io/design]
+
+![kivy](./images/KivyMD.gif)
+
+_Crear Entorno Kivy_
+
+- create File kivymd
+- Ingresar el comando: cd kivymd/
+- python -m venv virt
+- Ingresar al siguiente direccion: `virt/Scrips/activate`
+
+---
+
+_Instalar librerias necesarioas_
+
+- python -m pip install --upgrade pip
+- pip install pillow
+- pip install kivy
+- pip freeze
+
+---
+
+_Clonar Archivo de github_
+
+- git clone https://github.com/kivymd/KivyMD.git --depth 1
+
+---
+
+_Instalar_
+
+- cd KivyMD
+- pip install .
+
+---
+
+_Ejecutar_
+
+- cd demos
+- cd kitchen_sink
+- python main.py
+
+
 
 **Icons**
 

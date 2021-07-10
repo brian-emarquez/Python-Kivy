@@ -442,11 +442,11 @@ _Instalar_
 
 ---
 
-_Ingregar al Archivo y ejecutar_
+_Ejecutar_
 
 - cd demos
 - cd kitchen_sink
-- pyth
+- python main.py
 
 
 
