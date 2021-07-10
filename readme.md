@@ -323,8 +323,6 @@ _Link de Descarga_
 
 ## How To Create CheckBoxes
 
-![kivy](./images/howtochechboxes.gif)
-
 | Carpeta                    | Link |     Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [How To Create CheckBoxes](https://github.com/BrianMarquez3/Python-Kivy/tree/main/027%20How%20To%20Create%20CheckBoxes)  |      ✔️     | [⬅️ Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
@@ -418,12 +416,13 @@ _Crear Entorno Kivy_
 - create File kivymd
 - Ingresar el comando: cd kivymd/
 - python -m venv virt
-- source virt/Scrips/activate
+- Ingresar al siguiente direccion: `virt/Scrips/activate`
 
 ---
 
 _Instalar librerias necesarioas_
 
+- python -m pip install --upgrade pip
 - pip install pillow
 - pip install kivy
 - pip freeze
@@ -432,7 +431,7 @@ _Instalar librerias necesarioas_
 
 _Clonar Archivo de github_
 
-- $ git clone https://github.com/kivymd/KivyMD.git --depth 1
+- git clone https://github.com/kivymd/KivyMD.git --depth 1
 
 ---
 

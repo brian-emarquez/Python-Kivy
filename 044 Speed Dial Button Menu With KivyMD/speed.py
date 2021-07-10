@@ -5,7 +5,7 @@
 #Descrption: Speed Dial Button Menu With KivyMD
 
 from kivy.lang import Builder
-from kivyMD.app import MDApp
+from kivymd.app import MDApp
 
 class MainApp(MDApp): 
 
