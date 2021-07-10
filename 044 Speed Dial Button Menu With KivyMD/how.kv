@@ -1,35 +1,16 @@
-BoxLayout:
+MDBoxLayout:
 	orientation: 'vertical'
-	
-	MDToolbar:
-		title: "Bottom Navbar "
-		md_bg_color:.2, .2, .2, 1 
-		specific_text_color: 1,0,0,1
 
-	MDBottomNavigation:
-		MDBottomNavigationItem:
-			name: 'screen 1'
-			text: "python"
-			icon: 'language-python'
+	MDScreen:
 
-			MDLabel:
-				text: "Python"
-				halign: 'center'
+		MDLabel:
+			id: my_label
+			text: "Some Stuff"
+			halign: 'center'
 
-		MDBottomNavigationItem:
-			name: 'screen 2'
-			text: "Youtube"
-			icon: 'youtube'
+		MDFloatingActionButtonSpeedDial:
+			data: app.data
+			root_button_anim: True
 
-			MDLabel:
-				text: "Brains rocks"
-				halign: 'center'	
+			data: {icon:text, icon:text, te}
 
-		MDBottomNavigationItem:
-			name: 'screen 3'
-			text: "Instagram"
-			icon: 'instagram'
-
-			MDLabel:
-				text: "My Instagram:\nbrains AI"
-				halign: 'center'	
