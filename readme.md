@@ -517,17 +517,30 @@ _Ejecucion de KivyMD_
 |044   | [Speed Dial Button Menu Wih KivyMD](https://github.com/BrianMarquez3/Python-Kivy/tree/main/044%20Speed%20Dial%20Button%20Menu%20With%20KivyMD)  |      ✔️     | [⬅️ Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 
+## Books
 
+<table>
+  <tr>
+      <td>Server</td>
+      <td>Name</td>
+      <td>Authors</td>
+      <td>Editorial</td>
+      <td>ISBN</td>
+      <td>Link</td>
+  </tr>
 
+   <tr>
+      <td>OneDrive</td>
+      <td>Kivy Blueprints</td>
+      <td>Mark Vasilkov </td>
+      <td>PACKT</td>
+      <td>978-1783987849</td>
+      <td><a href="https://ucsmedu-my.sharepoint.com/:b:/g/personal/47092136_ucsm_edu_pe/EUaLQ_niuE9Bsy8WPcPTCBcBdTWAtvxuP9_JfjCoBHRy0g?e=mC8UgM">Kivy Blueprints</a></td>
+  </tr>
 
-
-
-
-
-
+</table>
 
 ---
-
 
 ## Paypal
 
